@@ -1,0 +1,540 @@
+/* Al-Qomar Hotspot - Offline-Ready MikroTik Captive Portal Stylesheet */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  width: 100%;
+  min-height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  background-color: #042512;
+  color: #084d20;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Outer responsive canvas: full-bleed on phones, framed on tablets/desktop */
+.alq-stage {
+  min-height: 100vh;
+  min-height: 100svh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(circle at 50% 0%, rgba(16, 98, 48, 0.55) 0%, rgba(4, 37, 18, 0.92) 55%, #02160a 100%);
+  padding: 20px 16px;
+}
+
+/* Main Portal Card */
+.alq-portal {
+  position: relative;
+  width: 100%;
+  max-width: 440px;
+  background-color: #faf6ec;
+  border-radius: 22px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow:
+    0 24px 64px rgba(0, 0, 0, 0.55),
+    0 0 0 1px rgba(218, 175, 65, 0.42);
+}
+
+/* Subtle warm arabesque lattice tint across middle area */
+.alq-portal::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background-image:
+    radial-gradient(rgba(196, 160, 74, 0.08) 1px, transparent 1px),
+    radial-gradient(rgba(10, 82, 37, 0.04) 1px, transparent 1px);
+  background-size: 28px 28px;
+  background-position: 0 0, 14px 14px;
+  z-index: 0;
+}
+
+/* Top Ornamental Arch & Hanging Lanterns */
+.alq-hero {
+  position: relative;
+  width: 100%;
+  z-index: 2;
+  line-height: 0;
+  background-color: #faf6ec;
+}
+
+.alq-top-arch {
+  width: 100%;
+  height: auto;
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.alq-logo-wrap {
+  position: absolute;
+  top: 5.5%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 34.5%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 3;
+}
+
+.alq-logo {
+  width: 100%;
+  height: auto;
+  display: block;
+  filter: drop-shadow(0 3px 8px rgba(4, 46, 19, 0.14));
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Middle Interactive Body */
+.alq-body {
+  position: relative;
+  z-index: 2;
+  padding: 2px 30px 10px;
+  text-align: center;
+  background-color: #faf6ec;
+}
+
+/* Decorative Side Minarets & Palm Fronds */
+.alq-side-art {
+  position: absolute;
+  top: -8px;
+  bottom: -14px;
+  width: 12%;
+  pointer-events: none;
+  z-index: 1;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  opacity: 0.96;
+}
+
+.alq-side-left {
+  left: 0;
+  background-image: url("img/side-left.jpg");
+  background-position: left center;
+}
+
+.alq-side-right {
+  right: 0;
+  background-image: url("img/side-right.jpg");
+  background-position: right center;
+}
+
+.alq-content {
+  position: relative;
+  z-index: 2;
+  max-width: 368px;
+  margin: 0 auto;
+}
+
+/* Title: Al-Qomar Hotspot */
+.alq-title {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, "Times New Roman", serif;
+  font-size: clamp(1.7rem, 7.6vw, 2.25rem);
+  font-weight: 700;
+  color: #074b1f;
+  line-height: 1.12;
+  letter-spacing: -0.015em;
+  margin-bottom: 6px;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
+}
+
+/* Mosque Silhouette Golden Divider */
+.alq-divider {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 8px;
+  margin: 0 auto 7px;
+  width: 82%;
+}
+
+.alq-divider-line {
+  flex: 1;
+  height: 1.5px;
+  margin-bottom: 3px;
+  background: linear-gradient(90deg, rgba(206, 161, 56, 0.1) 0%, #c99a31 60%, #a97c1e 100%);
+  border-radius: 2px;
+}
+
+.alq-divider-line--right {
+  background: linear-gradient(90deg, #a97c1e 0%, #c99a31 40%, rgba(206, 161, 56, 0.1) 100%);
+}
+
+.alq-mosque-mini {
+  width: 44px;
+  height: 20px;
+  color: #074b1f;
+  flex-shrink: 0;
+  display: block;
+}
+
+/* Emerald & Gold Slogan Plaque */
+.alq-banner-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  margin-bottom: 8px;
+}
+
+.alq-diamond {
+  width: 11px;
+  height: 11px;
+  flex-shrink: 0;
+  color: #d9a93c;
+  filter: drop-shadow(0 1px 2px rgba(155, 110, 18, 0.35));
+}
+
+.alq-banner {
+  position: relative;
+  flex: 1;
+  background: linear-gradient(180deg, #065224 0%, #033d1a 52%, #022d12 100%);
+  border: 2px solid #d7a93e;
+  border-radius: 16px;
+  padding: 8px 14px;
+  box-shadow:
+    0 3px 10px rgba(3, 55, 22, 0.22),
+    inset 0 1px 0 rgba(255, 232, 163, 0.35),
+    inset 0 -1px 0 rgba(0, 0, 0, 0.35);
+}
+
+.alq-banner-text {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+  font-weight: 600;
+  font-size: clamp(0.86rem, 3.65vw, 1.03rem);
+  line-height: 1.25;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+.alq-banner-highlight {
+  color: #f4c644;
+  font-weight: 700;
+}
+
+/* Subtitle: (Internetan Sambil Beramal) */
+.alq-subtitle-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 16px;
+}
+
+.alq-sub-line {
+  flex: 1;
+  max-width: 58px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #cfa23b);
+}
+
+.alq-sub-line--right {
+  background: linear-gradient(90deg, #cfa23b, transparent);
+}
+
+.alq-subtitle {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: clamp(0.88rem, 3.8vw, 1.04rem);
+  color: #0b4f24;
+  letter-spacing: 0.01em;
+}
+
+/* Login Form */
+.alq-form {
+  display: flex;
+  flex-direction: column;
+  gap: 13px;
+}
+
+.alq-input-wrap {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 52px;
+  background: rgba(255, 255, 255, 0.96);
+  border: 2px solid #17542c;
+  border-radius: 9999px;
+  padding: 0 8px 0 16px;
+  box-shadow: 0 3px 10px rgba(8, 70, 29, 0.08);
+  transition: border-color 160ms cubic-bezier(0.16, 1, 0.3, 1),
+              box-shadow 160ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.alq-input-wrap:focus-within {
+  border-color: #096b2e;
+  box-shadow:
+    0 4px 14px rgba(8, 70, 29, 0.14),
+    0 0 0 3px rgba(215, 169, 62, 0.32);
+}
+
+.alq-user-icon {
+  width: 22px;
+  height: 22px;
+  color: #0c5325;
+  flex-shrink: 0;
+  margin-right: 10px;
+}
+
+.alq-input {
+  flex: 1;
+  width: 100%;
+  min-width: 0;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 1rem;
+  font-weight: 500;
+  color: #0b3b1c;
+  letter-spacing: 0.01em;
+}
+
+.alq-input::placeholder {
+  color: #8c928c;
+  font-weight: 400;
+}
+
+.alq-eye-btn {
+  width: 44px;
+  height: 44px;
+  flex-shrink: 0;
+  border: none;
+  background: transparent;
+  color: #646a64;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  border-radius: 9999px;
+  transition: color 150ms ease, background-color 150ms ease;
+}
+
+.alq-eye-btn:hover {
+  color: #074b1f;
+  background-color: rgba(7, 75, 31, 0.07);
+}
+
+.alq-eye-btn:focus-visible {
+  outline: 2px solid #d7a93e;
+  outline-offset: -2px;
+}
+
+.alq-eye-icon {
+  width: 22px;
+  height: 22px;
+  display: block;
+}
+
+/* Primary Emerald-Gold Login Button */
+.alq-submit-btn {
+  width: 100%;
+  height: 52px;
+  border-radius: 9999px;
+  border: 2px solid #dfb44a;
+  background: linear-gradient(180deg, #0f7b37 0%, #075c26 52%, #03451b 100%);
+  color: #ffffff;
+  font-size: 1.08rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+  box-shadow:
+    0 5px 16px rgba(173, 130, 36, 0.34),
+    0 3px 8px rgba(4, 58, 23, 0.24),
+    inset 0 1px 0 rgba(255, 240, 190, 0.35);
+  transition: transform 150ms cubic-bezier(0.16, 1, 0.3, 1),
+              filter 150ms ease,
+              box-shadow 150ms ease;
+}
+
+.alq-submit-btn:hover {
+  filter: brightness(1.07);
+  box-shadow:
+    0 7px 20px rgba(173, 130, 36, 0.42),
+    0 4px 10px rgba(4, 58, 23, 0.3),
+    inset 0 1px 0 rgba(255, 240, 190, 0.45);
+}
+
+.alq-submit-btn:active {
+  transform: scale(0.985);
+}
+
+.alq-submit-btn:focus-visible {
+  outline: 2px solid #074b1f;
+  outline-offset: 3px;
+}
+
+.alq-login-icon {
+  width: 22px;
+  height: 22px;
+  flex-shrink: 0;
+}
+
+/* MikroTik Error Alert Box */
+.alq-error {
+  margin-top: 12px;
+  padding: 10px 14px;
+  border-radius: 12px;
+  background-color: #fef2f2;
+  border: 1px solid #dc2626;
+  color: #991b1b;
+  font-size: 0.84rem;
+  font-weight: 500;
+  line-height: 1.4;
+  text-align: center;
+}
+
+/* MikroTik Trial / Optional Action Link */
+.alq-trial-wrap {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.alq-trial-link {
+  display: inline-block;
+  font-size: 0.84rem;
+  font-weight: 600;
+  color: #0b5a27;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  padding: 4px 8px;
+}
+
+.alq-trial-link:hover {
+  color: #063d19;
+}
+
+/* Bottom Mosque, Students & Emerald Arch Footer */
+.alq-bottom {
+  position: relative;
+  width: 100%;
+  line-height: 0;
+  margin-top: 2px;
+  z-index: 2;
+  background-color: #013515;
+}
+
+.alq-scene-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Footer Text Overlaid Cleanly inside the Emerald Arch */
+.alq-footer-overlay {
+  position: absolute;
+  left: 16%;
+  right: 16%;
+  bottom: 0;
+  height: 12.2%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  line-height: 1.2;
+  padding-bottom: 2px;
+  z-index: 3;
+}
+
+.alq-footer-brand {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: clamp(0.86rem, 3.6vw, 1.05rem);
+  color: #ffffff;
+  letter-spacing: 0.015em;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.35);
+}
+
+.alq-footer-tag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  width: 100%;
+  margin-top: 2px;
+}
+
+.alq-footer-line {
+  width: 24px;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #dfb44a);
+  flex-shrink: 0;
+}
+
+.alq-footer-line--right {
+  background: linear-gradient(90deg, #dfb44a, transparent);
+}
+
+.alq-footer-sub {
+  font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  font-style: italic;
+  font-size: clamp(0.68rem, 2.8vw, 0.82rem);
+  color: #f3e8c8;
+  white-space: nowrap;
+}
+
+/* Mobile Full-Bleed Captive Portal Mode */
+@media (max-width: 500px) {
+  .alq-stage {
+    padding: 0;
+    background: #faf6ec;
+    align-items: stretch;
+  }
+
+  .alq-portal {
+    max-width: 100%;
+    min-height: 100vh;
+    min-height: 100svh;
+    border-radius: 0;
+    box-shadow: none;
+  }
+
+  .alq-body {
+    padding: 2px 22px 10px;
+  }
+}
+
+@media (max-width: 350px) {
+  .alq-body {
+    padding: 2px 16px 8px;
+  }
+
+  .alq-banner {
+    padding: 7px 10px;
+  }
+
+  .alq-banner-text {
+    font-size: 0.8rem;
+  }
+}
+
+@media print {
+  body {
+    display: none;
+  }
+}
