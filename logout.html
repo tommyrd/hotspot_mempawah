@@ -1,0 +1,60 @@
+<html lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>mks > logout</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="style.mks.css">
+</head>
+<body>
+<script language="JavaScript">
+<!--
+    function openLogin() {
+	if (window.name != 'hotspot_logout') return true;
+	open('$(link-login)', '_blank', '');
+	window.close();
+	return false;
+    }
+//-->
+</script>
+<div class="form-signin ">
+<div id="header" class="row text-center">
+ <p style=" text-align:center;margin-top:-25px;margin-bottom:5px">
+<center><img class="img-responsive da animated bounceInDown" width="240" height="60" src="logo.png" alt="Hotspot Services"></center>
+ <p style=" text-align:center;margin-top:-30px;margin-bottom:5px">
+</div>
+<div id="main" class="row">
+<div id="loginform" class="animated bounceInDown col-sm-12 text-center">
+<form action="$(link-logout)" name="logout" onsubmit="return openLogout()">
+<center>
+<br><b>$(username)  Anda baru saja keluar</b>
+<br><div style="text-align: center;"></div><br><table style="max-width:400px;" class="table table-bordered">
+<tr class="active"><td  style="width: 40%;">user name</td><td>$(username)</td></tr>
+<tr class="danger"><td>IP address</td><td>$(ip)</td></tr>
+<tr class="warning"><td>MAC address</td><td>$(mac)</td></tr>
+<tr class="success"><td>session time</td><td>$(uptime)</td></tr>
+$(if session-time-left)
+<tr class="danger"><td>time left</td><td>$(session-time-left)</td></tr>
+$(endif)
+<tr class="warning"><td>up/down:</td><td>$(bytes-in-nice) / $(bytes-out-nice)</td></tr>
+</table>
+<form action="$(link-login)" name="login" onSubmit="return openLogin()">
+<input type="submit"class="btn btn-lg btn-danger btn-block" role="button" value="LOGIN KEMBALI">
+</form>
+<p style=" text-align:center;margin-top:5px">
+<marquee ><class="running-text text-info" direction="left" scrollamount="3" onmouseover="this.stop()" onmouseout="this.start() ">
+				<font color="#444">Internet Untuk Memajukan Desa. Gunakan Internet Dengan Bijak !   <a href="about.html"><font color="#800000"><b>  FASNET WiFi</b></a>
+					</marquee>
+					<p style=" text-align:center;margin-top:-15px">	
+</div>
+</div>
+</div>
+<p style=" text-align:center;margin-top:-20px">
+<div class="copy text-center"><font color="#444"><br/>  <a href=""><font color="#800000">FASNET WiFi </font></a></font></div> 
+</div> 
+</body></html>

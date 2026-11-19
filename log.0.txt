@@ -1,0 +1,774 @@
+Apr/13/2024 18:07:52 hotspot,info,debug ->: feyxnsyt (10.10.10.124): login failed: invalid MAC address
+Apr/13/2024 18:10:03 hotspot,info,debug ->: qrcqp (10.10.10.204): trying to log in by mac-cookie
+Apr/13/2024 18:10:03 hotspot,account,info,debug ->: qrcqp (10.10.10.204): logged in
+Apr/13/2024 18:10:07 hotspot,info,debug ->: feyxnsyt (10.10.10.124): trying to log in by http-chap
+Apr/13/2024 18:10:09 hotspot,info,debug ->: feyxnsyt (10.10.10.124): login failed: invalid MAC address
+Apr/13/2024 18:11:06 hotspot,info,debug ->: epthcwcr (10.10.10.185): logged out: keepalive timeout
+Apr/13/2024 18:11:11 hotspot,info,debug ->: dsabmjrm (10.10.10.76): trying to log in by mac-cookie
+Apr/13/2024 18:11:11 hotspot,account,info,debug ->: dsabmjrm (10.10.10.76): logged in
+Apr/13/2024 18:13:48 hotspot,info,debug ->: skzpzntt (10.10.10.100): logged out: keepalive timeout
+Apr/13/2024 18:16:30 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 18:16:30 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 18:18:07 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 18:18:07 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 18:18:47 hotspot,info,debug ->: pktaqzkd (10.10.10.202): trying to log in by http-chap
+Apr/13/2024 18:18:47 hotspot,account,info,debug ->: pktaqzkd (10.10.10.202): logged in
+Apr/13/2024 18:20:25 hotspot,info,debug ->: bvk4h66f (10.10.10.61): logged out: keepalive timeout
+Apr/13/2024 18:20:25 hotspot,info,debug ->: bvk4h66f (10.10.10.61): trying to log in by mac-cookie
+Apr/13/2024 18:20:25 hotspot,account,info,debug ->: bvk4h66f (10.10.10.61): logged in
+Apr/13/2024 18:23:33 hotspot,info,debug ->: zrhdxduu (10.10.10.125): trying to log in by mac-cookie
+Apr/13/2024 18:23:33 hotspot,account,info,debug ->: zrhdxduu (10.10.10.125): logged in
+Apr/13/2024 18:23:41 hotspot,info,debug ->: bvk4h66f (10.10.10.61): logged out: keepalive timeout
+Apr/13/2024 18:23:51 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): trying to log in by mac-cookie
+Apr/13/2024 18:23:51 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.207): logged in
+Apr/13/2024 18:23:59 hotspot,info,debug ->: eyqydzen (10.10.10.208): trying to log in by mac-cookie
+Apr/13/2024 18:23:59 hotspot,account,info,debug ->: eyqydzen (10.10.10.208): logged in
+Apr/13/2024 18:24:14 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 18:25:21 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 18:25:21 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 18:27:15 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): logged out: keepalive timeout
+Apr/13/2024 18:28:15 hotspot,info,debug ->: mqsquafp (10.10.10.209): trying to log in by http-chap
+Apr/13/2024 18:28:17 hotspot,info,debug ->: mqsquafp (10.10.10.209): login failed: invalid username or password
+Apr/13/2024 18:28:56 hotspot,info,debug ->: mqsauafp (10.10.10.209): trying to log in by http-chap
+Apr/13/2024 18:28:58 hotspot,info,debug ->: mqsauafp (10.10.10.209): login failed: invalid username or password
+Apr/13/2024 18:29:12 hotspot,info,debug ->: masquafp (10.10.10.209): trying to log in by http-chap
+Apr/13/2024 18:29:14 hotspot,info,debug ->: masquafp (10.10.10.209): login failed: invalid MAC address
+Apr/13/2024 18:29:41 hotspot,info,debug ->: Masaua fp (10.10.10.209): trying to log in by http-chap
+Apr/13/2024 18:29:42 hotspot,info,debug ->: pktaqzkd (10.10.10.202): logged out: keepalive timeout
+Apr/13/2024 18:29:43 hotspot,info,debug ->: Masaua fp (10.10.10.209): login failed: invalid username or password
+Apr/13/2024 18:29:54 hotspot,info,debug ->: Masauafp (10.10.10.209): trying to log in by http-chap
+Apr/13/2024 18:29:56 hotspot,info,debug ->: Masauafp (10.10.10.209): login failed: invalid username or password
+Apr/13/2024 18:30:22 hotspot,info,debug ->: feyxnsyt (10.10.10.122): logged out: keepalive timeout
+Apr/13/2024 18:30:25 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): logged out: keepalive timeout
+Apr/13/2024 18:30:39 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): trying to log in by mac-cookie
+Apr/13/2024 18:30:39 hotspot,account,info,debug ->: ptxuxxgu (10.10.10.200): logged in
+Apr/13/2024 18:32:22 hotspot,info,debug ->: qthkt (10.10.10.212): trying to log in by cookie
+Apr/13/2024 18:32:22 hotspot,info,debug ->: qthkt (10.10.10.212): login failed: invalid username or password
+Apr/13/2024 18:32:32 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 18:32:32 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 18:33:35 hotspot,info,debug ->: ngmyzsfy (10.10.10.212): trying to log in by http-chap
+Apr/13/2024 18:33:35 hotspot,account,info,debug ->: ngmyzsfy (10.10.10.212): logged in
+Apr/13/2024 18:34:34 hotspot,info,debug ->: feyxnsyt (10.10.10.122): logged out: keepalive timeout
+Apr/13/2024 18:34:51 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): logged out: keepalive timeout
+Apr/13/2024 18:40:01 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): trying to log in by mac-cookie
+Apr/13/2024 18:40:01 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.207): logged in
+Apr/13/2024 18:40:42 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 18:41:19 hotspot,info,debug ->: xxzrvemj (10.10.10.132): trying to log in by mac-cookie
+Apr/13/2024 18:41:19 hotspot,account,info,debug ->: xxzrvemj (10.10.10.132): logged in
+Apr/13/2024 18:41:36 hotspot,info,debug ->: guygdcku (10.10.10.213): trying to log in by mac-cookie
+Apr/13/2024 18:41:36 hotspot,account,info,debug ->: guygdcku (10.10.10.213): logged in
+Apr/13/2024 18:41:37 hotspot,info,debug ->: fscycsen (10.10.10.84): logged out: keepalive timeout
+Apr/13/2024 18:43:08 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 18:43:50 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 18:43:50 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 18:45:50 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): logged out: keepalive timeout
+Apr/13/2024 18:45:51 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 18:46:14 hotspot,info,debug ->: kjwan (10.10.10.183): trying to log in by http-chap
+Apr/13/2024 18:46:16 hotspot,info,debug ->: kjwan (10.10.10.183): login failed: your traffic limit is reached
+Apr/13/2024 18:47:22 hotspot,info,debug ->: kjwan (10.10.10.183): trying to log in by http-chap
+Apr/13/2024 18:47:24 hotspot,info,debug ->: kjwan (10.10.10.183): login failed: your traffic limit is reached
+Apr/13/2024 18:48:16 hotspot,info,debug ->: dqyscymz (10.10.10.219): trying to log in by http-chap
+Apr/13/2024 18:48:16 hotspot,account,info,debug ->: dqyscymz (10.10.10.219): logged in
+Apr/13/2024 18:50:21 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): trying to log in by mac-cookie
+Apr/13/2024 18:50:21 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.207): logged in
+Apr/13/2024 18:50:26 hotspot,info,debug ->: gtnmv (10.10.10.13): trying to log in by mac-cookie
+Apr/13/2024 18:50:26 hotspot,account,info,debug ->: gtnmv (10.10.10.13): logged in
+Apr/13/2024 18:50:45 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 18:50:45 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 18:50:49 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 18:50:49 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 18:51:16 hotspot,info,debug ->: aq4uz (10.10.10.134): logged out: keepalive timeout
+Apr/13/2024 18:51:45 hotspot,info,debug ->: aq4uz (10.10.10.134): trying to log in by mac-cookie
+Apr/13/2024 18:51:45 hotspot,account,info,debug ->: aq4uz (10.10.10.134): logged in
+Apr/13/2024 18:52:25 hotspot,info,debug ->: zrhdxduu (10.10.10.125): logged out: keepalive timeout
+Apr/13/2024 18:52:56 hotspot,info,debug ->: zrhdxduu (10.10.10.125): trying to log in by mac-cookie
+Apr/13/2024 18:52:56 hotspot,account,info,debug ->: zrhdxduu (10.10.10.125): logged in
+Apr/13/2024 18:53:08 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 18:53:08 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 18:53:32 hotspot,info,debug ->: 3cvse (10.10.10.81): trying to log in by mac-cookie
+Apr/13/2024 18:53:32 hotspot,account,info,debug ->: 3cvse (10.10.10.81): logged in
+Apr/13/2024 18:54:08 hotspot,info,debug ->: fgbtkuzy (10.10.10.40): trying to log in by http-chap
+Apr/13/2024 18:54:08 hotspot,account,info,debug ->: fgbtkuzy (10.10.10.40): logged in
+Apr/13/2024 18:55:07 hotspot,info,debug ->: gtnmv (10.10.10.13): logged out: keepalive timeout
+Apr/13/2024 18:56:13 hotspot,info,debug ->: mysgdbvm (10.10.10.225): trying to log in by http-chap
+Apr/13/2024 18:56:13 hotspot,account,info,debug ->: mysgdbvm (10.10.10.225): logged in
+Apr/13/2024 18:57:34 hotspot,info,debug ->: feyxnsyt (10.10.10.122): logged out: keepalive timeout
+Apr/13/2024 18:57:37 hotspot,info,debug ->: fwhhcbyu (10.10.10.67): logged out: traffic limit reached
+Apr/13/2024 18:58:06 hotspot,info,debug ->: gtnmv (10.10.10.13): trying to log in by mac-cookie
+Apr/13/2024 18:58:06 hotspot,account,info,debug ->: gtnmv (10.10.10.13): logged in
+Apr/13/2024 18:58:22 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 18:58:22 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 19:00:02 hotspot,info,debug ->: epthcwcr (10.10.10.185): trying to log in by mac-cookie
+Apr/13/2024 19:00:02 hotspot,account,info,debug ->: epthcwcr (10.10.10.185): logged in
+Apr/13/2024 19:00:08 hotspot,info,debug ->: gtnmv (10.10.10.13): logged out: keepalive timeout
+Apr/13/2024 19:00:46 hotspot,info,debug ->: feyxnsyt (10.10.10.122): logged out: keepalive timeout
+Apr/13/2024 19:01:11 hotspot,info,debug ->: j699z (10.10.10.181): logged out: keepalive timeout
+Apr/13/2024 19:03:06 hotspot,info,debug ->: xmsjqqcc (10.10.10.207): logged out: keepalive timeout
+Apr/13/2024 19:03:31 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 19:04:23 hotspot,info,debug ->: j699z (10.10.10.181): trying to log in by mac-cookie
+Apr/13/2024 19:04:23 hotspot,account,info,debug ->: j699z (10.10.10.181): logged in
+Apr/13/2024 19:04:24 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): trying to log in by mac-cookie
+Apr/13/2024 19:04:24 hotspot,account,info,debug ->: ue4tj7ys (10.10.10.63): logged in
+Apr/13/2024 19:04:43 hotspot,info,debug ->: mnduhkua (10.10.10.111): logged out: keepalive timeout
+Apr/13/2024 19:05:13 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 19:05:14 hotspot,info,debug ->: gncugpnf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:05:16 hotspot,info,debug ->: gncugpnf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:05:25 hotspot,info,debug ->: guygdcku (10.10.10.213): logged out: keepalive timeout
+Apr/13/2024 19:05:48 hotspot,info,debug ->: gncugpnv  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:05:50 hotspot,info,debug ->: gncugpnv  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:05:59 hotspot,info,debug ->: epthcwcr (10.10.10.185): logged out: keepalive timeout
+Apr/13/2024 19:06:06 hotspot,info,debug ->: Gncugpnv  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:06:08 hotspot,info,debug ->: Gncugpnv  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:06:23 hotspot,info,debug ->: gncugvnf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:06:25 hotspot,info,debug ->: j699z (10.10.10.181): logged out: keepalive timeout
+Apr/13/2024 19:06:25 hotspot,info,debug ->: gncugvnf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:06:43 hotspot,info,debug ->: gncugpnv  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:06:45 hotspot,info,debug ->: gncugpnv  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:07:10 hotspot,info,debug ->: gncugpnV (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:07:12 hotspot,info,debug ->: gncugpnV (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:07:21 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 19:07:21 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 19:07:53 hotspot,info,debug ->: 2sdu4 (10.10.10.141): logged out: keepalive timeout
+Apr/13/2024 19:07:56 hotspot,info,debug ->: gNCugvnf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:07:58 hotspot,info,debug ->: gNCugvnf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:08:17 hotspot,info,debug ->: bsvxgujg (10.10.10.154): trying to log in by cookie
+Apr/13/2024 19:08:17 hotspot,account,info,debug ->: bsvxgujg (10.10.10.154): logged in
+Apr/13/2024 19:08:22 hotspot,info,debug ->: gncugpnv  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:08:24 hotspot,info,debug ->: gncugpnv  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:08:33 hotspot,info,debug ->: GaaIL (10.10.10.193): trying to log in by http-chap
+Apr/13/2024 19:08:35 hotspot,info,debug ->: GaaIL (10.10.10.193): login failed: invalid username or password
+Apr/13/2024 19:08:38 hotspot,info,debug ->: gncugvnf  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:08:40 hotspot,info,debug ->: gncugvnf  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:08:43 hotspot,info,debug ->: GaaOL (10.10.10.193): trying to log in by http-chap
+Apr/13/2024 19:08:45 hotspot,info,debug ->: GaaOL (10.10.10.193): login failed: invalid username or password
+Apr/13/2024 19:09:23 hotspot,info,debug ->: GaaOL (10.10.10.193): trying to log in by http-chap
+Apr/13/2024 19:09:23 hotspot,account,info,debug ->: GaaOL (10.10.10.193): logged in
+Apr/13/2024 19:09:28 hotspot,info,debug ->: ncqrs (10.10.10.210): trying to log in by http-chap
+Apr/13/2024 19:09:28 hotspot,account,info,debug ->: ncqrs (10.10.10.210): logged in
+Apr/13/2024 19:10:35 hotspot,info,debug ->: Gncugv (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:10:37 hotspot,info,debug ->: Gncugv (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:10:56 hotspot,info,debug ->: gncugvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:10:58 hotspot,info,debug ->: gncugvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:11:08 hotspot,info,debug ->: vjenxckb (10.10.10.236): trying to log in by http-chap
+Apr/13/2024 19:11:08 hotspot,account,info,debug ->: vjenxckb (10.10.10.236): logged in
+Apr/13/2024 19:11:41 hotspot,info,debug ->: eyqydzen (10.10.10.208): logged out: traffic limit reached
+Apr/13/2024 19:11:48 hotspot,info,debug ->: gncugfnv (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:11:50 hotspot,info,debug ->: gncugfnv (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:11:52 hotspot,info,debug ->: zYPAq (10.10.10.108): logged out: keepalive timeout
+Apr/13/2024 19:12:06 hotspot,info,debug ->: Gncugv (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:12:08 hotspot,info,debug ->: Gncugv (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:13:21 hotspot,info,debug ->: zYPAq (10.10.10.108): trying to log in by mac-cookie
+Apr/13/2024 19:13:21 hotspot,account,info,debug ->: zYPAq (10.10.10.108): logged in
+Apr/13/2024 19:16:20 hotspot,info,debug ->: pktaqzkd (10.10.10.202): trying to log in by mac-cookie
+Apr/13/2024 19:16:20 hotspot,account,info,debug ->: pktaqzkd (10.10.10.202): logged in
+Apr/13/2024 19:18:05 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 19:18:14 hotspot,info,debug ->: gtnmv (10.10.10.13): trying to log in by mac-cookie
+Apr/13/2024 19:18:14 hotspot,account,info,debug ->: gtnmv (10.10.10.13): logged in
+Apr/13/2024 19:18:24 hotspot,info,debug ->: zYPAq (10.10.10.108): logged out: keepalive timeout
+Apr/13/2024 19:18:30 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 19:18:30 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 19:19:09 hotspot,info,debug ->: 3cvse (10.10.10.81): logged out: keepalive timeout
+Apr/13/2024 19:19:26 hotspot,info,debug ->: bvk4h66f (10.10.10.61): trying to log in by mac-cookie
+Apr/13/2024 19:19:26 hotspot,account,info,debug ->: bvk4h66f (10.10.10.61): logged in
+Apr/13/2024 19:19:31 hotspot,info,debug ->: Gncugpvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:19:33 hotspot,info,debug ->: Gncugpvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:19:42 hotspot,info,debug ->: gncugpnv (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:19:44 hotspot,info,debug ->: gncugpnv (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:19:59 hotspot,info,debug ->: gncugpvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:20:01 hotspot,info,debug ->: gncugpvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:20:14 hotspot,info,debug ->: pktaqzkd (10.10.10.202): logged out: keepalive timeout
+Apr/13/2024 19:20:50 hotspot,info,debug ->: gncuvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:20:52 hotspot,info,debug ->: gncuvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:21:12 hotspot,info,debug ->: Gncugpnf  (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:21:14 hotspot,info,debug ->: Gncugpnf  (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:21:30 hotspot,info,debug ->: Gncugvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:21:32 hotspot,info,debug ->: Gncugvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:21:36 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 19:21:36 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 19:21:44 hotspot,info,debug ->: gncugvn (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:21:46 hotspot,info,debug ->: gncugvn (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:22:18 hotspot,info,debug ->: gNcUgpnv (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:22:20 hotspot,info,debug ->: gNcUgpnv (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:23:12 hotspot,info,debug ->: pktaqzkd (10.10.10.202): trying to log in by mac-cookie
+Apr/13/2024 19:23:12 hotspot,account,info,debug ->: pktaqzkd (10.10.10.202): logged in
+Apr/13/2024 19:24:01 hotspot,info,debug ->: XGdjn (10.10.10.240): trying to log in by http-chap
+Apr/13/2024 19:24:01 hotspot,account,info,debug ->: XGdjn (10.10.10.240): logged in
+Apr/13/2024 19:24:29 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 19:25:14 hotspot,info,debug ->: pktaqzkd (10.10.10.202): logged out: keepalive timeout
+Apr/13/2024 19:25:51 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 19:27:26 hotspot,info,debug ->: mysgdbvm (10.10.10.225): logged out: keepalive timeout
+Apr/13/2024 19:27:43 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 19:27:43 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 19:29:31 hotspot,info,debug ->: sjectrbb (10.10.10.244): trying to log in by mac-cookie
+Apr/13/2024 19:29:31 hotspot,account,info,debug ->: sjectrbb (10.10.10.244): logged in
+Apr/13/2024 19:29:33 hotspot,info,debug ->: syduttqk (10.10.10.46): logged out: traffic limit reached
+Apr/13/2024 19:29:44 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 19:30:51 hotspot,info,debug ->: tbcxa (10.10.10.245): trying to log in by mac-cookie
+Apr/13/2024 19:30:51 hotspot,account,info,debug ->: tbcxa (10.10.10.245): logged in
+Apr/13/2024 19:35:35 hotspot,info,debug ->: sjectrbb (10.10.10.244): logged out: keepalive timeout
+Apr/13/2024 19:36:06 hotspot,info,debug ->: bvk4h66f (10.10.10.61): logged out: keepalive timeout
+Apr/13/2024 19:36:09 hotspot,info,debug ->: DaAVD (10.10.10.157): trying to log in by mac-cookie
+Apr/13/2024 19:36:09 hotspot,account,info,debug ->: DaAVD (10.10.10.157): logged in
+Apr/13/2024 19:37:06 hotspot,info,debug ->: bvk4h66f (10.10.10.61): trying to log in by mac-cookie
+Apr/13/2024 19:37:06 hotspot,account,info,debug ->: bvk4h66f (10.10.10.61): logged in
+Apr/13/2024 19:37:34 hotspot,info,debug ->: zYPAq (10.10.10.108): trying to log in by mac-cookie
+Apr/13/2024 19:37:34 hotspot,account,info,debug ->: zYPAq (10.10.10.108): logged in
+Apr/13/2024 19:39:36 hotspot,info,debug ->: DaAVD (10.10.10.157): logged out: keepalive timeout
+Apr/13/2024 19:39:38 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 19:39:38 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 19:40:25 hotspot,info,debug ->: fbpng (10.10.10.4): trying to log in by cookie
+Apr/13/2024 19:40:25 hotspot,info,debug ->: fbpng (10.10.10.4): login failed: your traffic limit is reached
+Apr/13/2024 19:40:39 hotspot,info,debug ->: vmg22fhg (10.10.10.164): logged out: traffic limit reached
+Apr/13/2024 19:41:46 hotspot,info,debug ->: ybjuzcqn (10.10.10.138): trying to log in by http-chap
+Apr/13/2024 19:41:46 hotspot,account,info,debug ->: ybjuzcqn (10.10.10.138): logged in
+Apr/13/2024 19:42:36 hotspot,info,debug ->: j699z (10.10.10.181): trying to log in by mac-cookie
+Apr/13/2024 19:42:36 hotspot,account,info,debug ->: j699z (10.10.10.181): logged in
+Apr/13/2024 19:44:26 hotspot,info,debug ->: zYPAq (10.10.10.108): logged out: keepalive timeout
+Apr/13/2024 19:47:26 hotspot,info,debug ->: GaaOL (10.10.10.193): logged out: keepalive timeout
+Apr/13/2024 19:48:11 hotspot,info,debug ->: GaaOL (10.10.10.193): trying to log in by mac-cookie
+Apr/13/2024 19:48:11 hotspot,account,info,debug ->: GaaOL (10.10.10.193): logged in
+Apr/13/2024 19:49:41 hotspot,info,debug ->: qrcqp (10.10.10.204): logged out: traffic limit reached
+Apr/13/2024 19:51:38 hotspot,info,debug ->: ngmyzsfy (10.10.10.212): logged out: traffic limit reached
+Apr/13/2024 19:51:42 hotspot,info,debug ->: 3cvse (10.10.10.81): trying to log in by mac-cookie
+Apr/13/2024 19:51:42 hotspot,account,info,debug ->: 3cvse (10.10.10.81): logged in
+Apr/13/2024 19:53:04 hotspot,info,debug ->: GaaOL (10.10.10.193): logged out: keepalive timeout
+Apr/13/2024 19:53:46 hotspot,info,debug ->: gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:53:48 hotspot,info,debug ->: gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:54:08 hotspot,info,debug ->: bvk4h66f (10.10.10.61): logged out: keepalive timeout
+Apr/13/2024 19:54:41 hotspot,info,debug ->: gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:54:43 hotspot,info,debug ->: gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:55:06 hotspot,info,debug ->: gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:55:08 hotspot,info,debug ->: gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:55:14 hotspot,info,debug ->: ngmyzsfy (10.10.10.212): trying to log in by cookie
+Apr/13/2024 19:55:14 hotspot,info,debug ->: ngmyzsfy (10.10.10.212): login failed: your traffic limit is reached
+Apr/13/2024 19:55:53 hotspot,info,debug ->: msv9ersq (10.10.10.251): trying to log in by http-chap
+Apr/13/2024 19:55:55 hotspot,info,debug ->: msv9ersq (10.10.10.251): login failed: invalid username or password
+Apr/13/2024 19:56:12 hotspot,info,debug ->: gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:56:14 hotspot,info,debug ->: gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:56:27 hotspot,info,debug ->: msvgersq (10.10.10.251): trying to log in by http-chap
+Apr/13/2024 19:56:29 hotspot,info,debug ->: msvgersq (10.10.10.251): login failed: invalid MAC address
+Apr/13/2024 19:57:04 hotspot,info,debug ->: fehqxrbf (10.10.10.4): trying to log in by http-chap
+Apr/13/2024 19:57:04 hotspot,account,info,debug ->: fehqxrbf (10.10.10.4): logged in
+Apr/13/2024 19:57:28 hotspot,info,debug ->: guygdcku (10.10.10.213): trying to log in by mac-cookie
+Apr/13/2024 19:57:28 hotspot,account,info,debug ->: guygdcku (10.10.10.213): logged in
+Apr/13/2024 19:57:32 hotspot,info,debug ->: j699z (10.10.10.181): logged out: traffic limit reached
+Apr/13/2024 19:57:46 hotspot,info,debug ->: Gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:57:48 hotspot,info,debug ->: Gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:58:04 hotspot,info,debug ->: ncqrs (10.10.10.210): logged out: keepalive timeout
+Apr/13/2024 19:58:06 hotspot,info,debug ->: gncugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:58:08 hotspot,info,debug ->: bvk4h66f (10.10.10.61): trying to log in by mac-cookie
+Apr/13/2024 19:58:08 hotspot,account,info,debug ->: bvk4h66f (10.10.10.61): logged in
+Apr/13/2024 19:58:08 hotspot,info,debug ->: gncugvmf (10.10.10.221): login failed: your traffic limit is reached
+Apr/13/2024 19:58:24 hotspot,info,debug ->: gmcugvmf (10.10.10.221): trying to log in by http-chap
+Apr/13/2024 19:58:26 hotspot,info,debug ->: gmcugvmf (10.10.10.221): login failed: invalid username or password
+Apr/13/2024 19:59:03 hotspot,info,debug ->: fxxya (10.10.10.58): trying to log in by mac-cookie
+Apr/13/2024 19:59:03 hotspot,account,info,debug ->: fxxya (10.10.10.58): logged in
+Apr/13/2024 20:00:20 hotspot,info,debug ->: hhhxyetb (10.10.10.253): trying to log in by mac-cookie
+Apr/13/2024 20:00:20 hotspot,account,info,debug ->: hhhxyetb (10.10.10.253): logged in
+Apr/13/2024 20:00:59 hotspot,info,debug ->: ncqrs (10.10.10.210): trying to log in by mac-cookie
+Apr/13/2024 20:00:59 hotspot,account,info,debug ->: ncqrs (10.10.10.210): logged in
+Apr/13/2024 20:02:09 hotspot,info,debug ->: sjectrbb (10.10.10.244): trying to log in by mac-cookie
+Apr/13/2024 20:02:09 hotspot,account,info,debug ->: sjectrbb (10.10.10.244): logged in
+Apr/13/2024 20:02:26 hotspot,info,debug ->: bvk4h66f (10.10.10.61): logged out: keepalive timeout
+Apr/13/2024 20:02:49 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): trying to log in by http-chap
+Apr/13/2024 20:02:50 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): trying to log in by http-chap
+Apr/13/2024 20:02:50 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): login failed: already authorizing, retry later
+Apr/13/2024 20:02:51 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): login failed: invalid username or password
+Apr/13/2024 20:03:09 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): trying to log in by http-chap
+Apr/13/2024 20:03:11 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): login failed: invalid MAC address
+Apr/13/2024 20:03:13 hotspot,info,debug ->: fscycsen (10.10.10.84): trying to log in by mac-cookie
+Apr/13/2024 20:03:13 hotspot,account,info,debug ->: fscycsen (10.10.10.84): logged in
+Apr/13/2024 20:03:29 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): trying to log in by http-chap
+Apr/13/2024 20:03:31 hotspot,info,debug ->: uzcxcgdz (10.10.10.254): login failed: invalid MAC address
+Apr/13/2024 20:03:47 hotspot,info,debug ->: ztgruckq (10.10.10.254): trying to log in by http-chap
+Apr/13/2024 20:03:47 hotspot,account,info,debug ->: ztgruckq (10.10.10.254): logged in
+Apr/13/2024 20:04:04 hotspot,info,debug ->: epthcwcr (10.10.10.185): trying to log in by mac-cookie
+Apr/13/2024 20:04:04 hotspot,account,info,debug ->: epthcwcr (10.10.10.185): logged in
+Apr/13/2024 20:04:32 hotspot,info,debug ->: guygdcku (10.10.10.213): logged out: keepalive timeout
+Apr/13/2024 20:07:50 hotspot,info,debug ->: zrhdxduu (10.10.10.125): logged out: keepalive timeout
+Apr/13/2024 20:08:20 hotspot,info,debug ->: epthcwcr (10.10.10.185): logged out: keepalive timeout
+Apr/13/2024 20:08:41 hotspot,info,debug ->: fxxya (10.10.10.58): logged out: keepalive timeout
+Apr/13/2024 20:08:46 hotspot,info,debug ->: sjectrbb (10.10.10.244): logged out: keepalive timeout
+Apr/13/2024 20:08:47 hotspot,info,debug ->: rvfyv (10.10.10.10): trying to log in by mac-cookie
+Apr/13/2024 20:08:47 hotspot,account,info,debug ->: rvfyv (10.10.10.10): logged in
+Apr/13/2024 20:08:55 hotspot,info,debug ->: zrhdxduu (10.10.10.125): trying to log in by mac-cookie
+Apr/13/2024 20:08:55 hotspot,account,info,debug ->: zrhdxduu (10.10.10.125): logged in
+Apr/13/2024 20:10:51 hotspot,info,debug ->: rvfyv (10.10.10.10): logged out: keepalive timeout
+Apr/13/2024 20:11:31 hotspot,info,debug ->: yyvmyzkp (10.10.10.98): trying to log in by mac-cookie
+Apr/13/2024 20:11:31 hotspot,account,info,debug ->: yyvmyzkp (10.10.10.98): logged in
+Apr/13/2024 20:11:34 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 20:11:34 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 20:11:48 hotspot,info,debug ->: kykzy (10.10.10.19): trying to log in by mac-cookie
+Apr/13/2024 20:11:48 hotspot,account,info,debug ->: kykzy (10.10.10.19): logged in
+Apr/13/2024 20:11:56 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): logged out: keepalive timeout
+Apr/13/2024 20:11:57 hotspot,info,debug ->: nceyafat (10.10.10.20): trying to log in by mac-cookie
+Apr/13/2024 20:11:57 hotspot,account,info,debug ->: nceyafat (10.10.10.20): logged in
+Apr/13/2024 20:11:59 hotspot,info,debug ->: jttskwad (10.10.10.11): trying to log in by http-chap
+Apr/13/2024 20:11:59 hotspot,account,info,debug ->: jttskwad (10.10.10.11): logged in
+Apr/13/2024 20:12:39 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by http-chap
+Apr/13/2024 20:12:39 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 20:12:44 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): trying to log in by mac-cookie
+Apr/13/2024 20:12:44 hotspot,account,info,debug ->: ue4tj7ys (10.10.10.63): logged in
+Apr/13/2024 20:14:03 hotspot,info,debug ->: ncqrs (10.10.10.210): logged out: keepalive timeout
+Apr/13/2024 20:14:54 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: keepalive timeout
+Apr/13/2024 20:15:06 hotspot,info,debug ->: qqcyswcg (10.10.10.75): logged out: keepalive timeout
+Apr/13/2024 20:15:08 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 20:15:08 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 20:15:08 hotspot,info,debug ->: ncqrs (10.10.10.210): trying to log in by mac-cookie
+Apr/13/2024 20:15:08 hotspot,account,info,debug ->: ncqrs (10.10.10.210): logged in
+Apr/13/2024 20:15:20 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): trying to log in by mac-cookie
+Apr/13/2024 20:15:20 hotspot,account,info,debug ->: ptxuxxgu (10.10.10.200): logged in
+Apr/13/2024 20:15:21 hotspot,info,debug ->: 2knr2g8f (10.10.10.22): trying to log in by mac-cookie
+Apr/13/2024 20:15:21 hotspot,account,info,debug ->: 2knr2g8f (10.10.10.22): logged in
+Apr/13/2024 20:15:48 hotspot,info,debug ->: qqcyswcg (10.10.10.75): trying to log in by mac-cookie
+Apr/13/2024 20:15:48 hotspot,account,info,debug ->: qqcyswcg (10.10.10.75): logged in
+Apr/13/2024 20:17:41 hotspot,info,debug ->: yaghbczy (10.10.10.220): trying to log in by http-chap
+Apr/13/2024 20:17:41 hotspot,account,info,debug ->: yaghbczy (10.10.10.220): logged in
+Apr/13/2024 20:19:54 hotspot,info,debug ->: gmcugvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:19:56 hotspot,info,debug ->: gmcugvmf (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:20:44 hotspot,info,debug ->: fxxya (10.10.10.58): trying to log in by mac-cookie
+Apr/13/2024 20:20:44 hotspot,account,info,debug ->: fxxya (10.10.10.58): logged in
+Apr/13/2024 20:20:52 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): logged out: keepalive timeout
+Apr/13/2024 20:20:58 hotspot,info,debug ->: rvfyv (10.10.10.10): trying to log in by mac-cookie
+Apr/13/2024 20:20:58 hotspot,account,info,debug ->: rvfyv (10.10.10.10): logged in
+Apr/13/2024 20:21:28 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): trying to log in by mac-cookie
+Apr/13/2024 20:21:28 hotspot,account,info,debug ->: ue4tj7ys (10.10.10.63): logged in
+Apr/13/2024 20:22:01 hotspot,info,debug ->: yezxmfgd (10.10.10.97): trying to log in by mac-cookie
+Apr/13/2024 20:22:01 hotspot,account,info,debug ->: yezxmfgd (10.10.10.97): logged in
+Apr/13/2024 20:22:28 hotspot,info,debug ->: uwanw (10.10.10.25): trying to log in by cookie
+Apr/13/2024 20:22:28 hotspot,info,debug ->: uwanw (10.10.10.25): login failed: invalid username or password
+Apr/13/2024 20:22:48 hotspot,info,debug ->: nnxesskz (10.10.10.25): trying to log in by http-chap
+Apr/13/2024 20:22:48 hotspot,account,info,debug ->: nnxesskz (10.10.10.25): logged in
+Apr/13/2024 11:45:48 hotspot,info,debug ->: feyxnsyt (10.10.10.122): trying to log in by mac-cookie
+Apr/13/2024 11:45:48 hotspot,account,info,debug ->: feyxnsyt (10.10.10.122): logged in
+Apr/13/2024 11:46:00 hotspot,info,debug ->: tbcxa (10.10.10.245): trying to log in by mac-cookie
+Apr/13/2024 11:46:00 hotspot,account,info,debug ->: tbcxa (10.10.10.245): logged in
+Apr/13/2024 11:46:01 hotspot,info,debug ->: cyyyxumb (10.10.10.93): trying to log in by mac-cookie
+Apr/13/2024 11:46:01 hotspot,account,info,debug ->: cyyyxumb (10.10.10.93): logged in
+Apr/13/2024 11:46:02 hotspot,info,debug ->: wtywgxsy (10.10.10.173): trying to log in by mac-cookie
+Apr/13/2024 11:46:02 hotspot,account,info,debug ->: wtywgxsy (10.10.10.173): logged in
+Apr/13/2024 11:46:03 hotspot,info,debug ->: gj37y6sb (10.10.10.136): trying to log in by mac-cookie
+Apr/13/2024 11:46:03 hotspot,account,info,debug ->: gj37y6sb (10.10.10.136): logged in
+Apr/13/2024 11:46:05 hotspot,info,debug ->: qqcyswcg (10.10.10.75): trying to log in by mac-cookie
+Apr/13/2024 11:46:05 hotspot,account,info,debug ->: qqcyswcg (10.10.10.75): logged in
+Apr/13/2024 11:46:10 hotspot,info,debug ->: 2knr2g8f (10.10.10.22): trying to log in by mac-cookie
+Apr/13/2024 11:46:10 hotspot,account,info,debug ->: 2knr2g8f (10.10.10.22): logged in
+Apr/13/2024 11:46:12 hotspot,info,debug ->: kykzy (10.10.10.19): trying to log in by mac-cookie
+Apr/13/2024 11:46:12 hotspot,account,info,debug ->: kykzy (10.10.10.19): logged in
+Apr/13/2024 11:46:12 hotspot,info,debug ->: nceyafat (10.10.10.20): trying to log in by mac-cookie
+Apr/13/2024 11:46:12 hotspot,account,info,debug ->: nceyafat (10.10.10.20): logged in
+Apr/13/2024 11:46:12 hotspot,info,debug ->: dqyscymz (10.10.10.219): trying to log in by mac-cookie
+Apr/13/2024 11:46:12 hotspot,account,info,debug ->: dqyscymz (10.10.10.219): logged in
+Apr/13/2024 11:46:12 hotspot,info,debug ->: jttskwad (10.10.10.11): trying to log in by mac-cookie
+Apr/13/2024 11:46:12 hotspot,account,info,debug ->: jttskwad (10.10.10.11): logged in
+Apr/13/2024 11:46:13 hotspot,info,debug ->: nnxesskz (10.10.10.8): trying to log in by mac-cookie
+Apr/13/2024 11:46:13 hotspot,account,info,debug ->: nnxesskz (10.10.10.8): logged in
+Apr/13/2024 11:46:14 hotspot,info,debug ->: ztgruckq (10.10.10.254): trying to log in by mac-cookie
+Apr/13/2024 11:46:14 hotspot,account,info,debug ->: ztgruckq (10.10.10.254): logged in
+Apr/13/2024 11:46:14 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 11:46:14 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 11:46:15 hotspot,info,debug ->: yaghbczy (10.10.10.220): trying to log in by mac-cookie
+Apr/13/2024 11:46:15 hotspot,account,info,debug ->: yaghbczy (10.10.10.220): logged in
+Apr/13/2024 11:46:17 hotspot,info,debug ->: aeeutpue (10.10.10.57): trying to log in by mac-cookie
+Apr/13/2024 11:46:17 hotspot,account,info,debug ->: aeeutpue (10.10.10.57): logged in
+Apr/13/2024 11:46:18 hotspot,info,debug ->: vjenxckb (10.10.10.236): trying to log in by mac-cookie
+Apr/13/2024 11:46:18 hotspot,account,info,debug ->: vjenxckb (10.10.10.236): logged in
+Apr/13/2024 11:46:19 hotspot,info,debug ->: yezxmfgd (10.10.10.97): trying to log in by mac-cookie
+Apr/13/2024 11:46:19 hotspot,account,info,debug ->: yezxmfgd (10.10.10.97): logged in
+Apr/13/2024 11:46:19 hotspot,info,debug ->: me34p4bs (10.10.10.94): trying to log in by mac-cookie
+Apr/13/2024 11:46:19 hotspot,account,info,debug ->: me34p4bs (10.10.10.94): logged in
+Apr/13/2024 11:46:20 hotspot,info,debug ->: ybjuzcqn (10.10.10.138): trying to log in by mac-cookie
+Apr/13/2024 11:46:20 hotspot,account,info,debug ->: ybjuzcqn (10.10.10.138): logged in
+Apr/13/2024 11:46:21 hotspot,info,debug ->: 7c64tq74 (10.10.10.36): trying to log in by mac-cookie
+Apr/13/2024 11:46:21 hotspot,account,info,debug ->: 7c64tq74 (10.10.10.36): logged in
+Apr/13/2024 11:46:22 hotspot,info,debug ->: gt52ejkg (10.10.10.198): trying to log in by mac-cookie
+Apr/13/2024 11:46:22 hotspot,account,info,debug ->: gt52ejkg (10.10.10.198): logged in
+Apr/13/2024 11:46:22 hotspot,info,debug ->: eusxekx4 (10.10.10.184): trying to log in by mac-cookie
+Apr/13/2024 11:46:22 hotspot,account,info,debug ->: eusxekx4 (10.10.10.184): logged in
+Apr/13/2024 11:46:22 hotspot,info,debug ->: fgbtkuzy (10.10.10.40): trying to log in by mac-cookie
+Apr/13/2024 11:46:22 hotspot,account,info,debug ->: fgbtkuzy (10.10.10.40): logged in
+Apr/13/2024 11:46:24 hotspot,info,debug ->: b6spc (10.10.10.55): trying to log in by mac-cookie
+Apr/13/2024 11:46:24 hotspot,account,info,debug ->: b6spc (10.10.10.55): logged in
+Apr/13/2024 11:46:30 hotspot,info,debug ->: 2w7zq2bp (10.10.10.68): trying to log in by mac-cookie
+Apr/13/2024 11:46:30 hotspot,account,info,debug ->: 2w7zq2bp (10.10.10.68): logged in
+Apr/13/2024 11:46:33 hotspot,info,debug ->: xbh5rapb (10.10.10.14): trying to log in by mac-cookie
+Apr/13/2024 11:46:33 hotspot,account,info,debug ->: xbh5rapb (10.10.10.14): logged in
+Apr/13/2024 11:46:36 hotspot,info,debug ->: fxxya (10.10.10.58): trying to log in by mac-cookie
+Apr/13/2024 11:46:36 hotspot,account,info,debug ->: fxxya (10.10.10.58): logged in
+Apr/13/2024 11:46:36 hotspot,info,debug ->: dsabmjrm (10.10.10.76): trying to log in by mac-cookie
+Apr/13/2024 11:46:36 hotspot,account,info,debug ->: dsabmjrm (10.10.10.76): logged in
+Apr/13/2024 11:46:37 hotspot,info,debug ->: 3cvse (10.10.10.81): trying to log in by mac-cookie
+Apr/13/2024 11:46:37 hotspot,account,info,debug ->: 3cvse (10.10.10.81): logged in
+Apr/13/2024 11:46:39 hotspot,info,debug ->: cbhb2wgg (10.10.10.90): trying to log in by mac-cookie
+Apr/13/2024 11:46:39 hotspot,account,info,debug ->: cbhb2wgg (10.10.10.90): logged in
+Apr/13/2024 11:46:42 hotspot,info,debug ->: gtnmv (10.10.10.13): trying to log in by mac-cookie
+Apr/13/2024 11:46:42 hotspot,account,info,debug ->: gtnmv (10.10.10.13): logged in
+Apr/13/2024 11:46:43 hotspot,info,debug ->: kpjd9 (10.10.10.171): trying to log in by mac-cookie
+Apr/13/2024 11:46:43 hotspot,account,info,debug ->: kpjd9 (10.10.10.171): logged in
+Apr/13/2024 11:46:43 hotspot,info,debug ->: 2s9znwkf (10.10.10.137): trying to log in by mac-cookie
+Apr/13/2024 11:46:43 hotspot,account,info,debug ->: 2s9znwkf (10.10.10.137): logged in
+Apr/13/2024 11:46:50 hotspot,info,debug ->: mhepbnps (10.10.10.153): trying to log in by mac-cookie
+Apr/13/2024 11:46:50 hotspot,account,info,debug ->: mhepbnps (10.10.10.153): logged in
+Apr/13/2024 11:46:51 hotspot,info,debug ->: 7ezw2dsd (10.10.10.33): trying to log in by mac-cookie
+Apr/13/2024 11:46:51 hotspot,account,info,debug ->: 7ezw2dsd (10.10.10.33): logged in
+Apr/13/2024 11:46:52 hotspot,info,debug ->: tqqhbwtm (10.10.10.31): trying to log in by mac-cookie
+Apr/13/2024 11:46:52 hotspot,account,info,debug ->: tqqhbwtm (10.10.10.31): logged in
+Apr/13/2024 11:46:53 hotspot,info,debug ->: bsvxgujg (10.10.10.154): trying to log in by mac-cookie
+Apr/13/2024 11:46:53 hotspot,account,info,debug ->: bsvxgujg (10.10.10.154): logged in
+Apr/13/2024 11:47:13 hotspot,info,debug ->: yqxfgevf (10.10.10.142): trying to log in by mac-cookie
+Apr/13/2024 11:47:13 hotspot,account,info,debug ->: yqxfgevf (10.10.10.142): logged in
+Apr/13/2024 11:47:33 hotspot,info,debug ->: fehqxrbf (10.10.10.4): trying to log in by mac-cookie
+Apr/13/2024 11:47:33 hotspot,account,info,debug ->: fehqxrbf (10.10.10.4): logged in
+Apr/13/2024 11:47:37 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 11:47:37 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 11:47:58 hotspot,info,debug ->: feyxnsyt (10.10.10.122): logged out: keepalive timeout
+Apr/13/2024 11:48:10 hotspot,info,debug ->: zrhdxduu (10.10.10.125): trying to log in by mac-cookie
+Apr/13/2024 11:48:10 hotspot,account,info,debug ->: zrhdxduu (10.10.10.125): logged in
+Apr/13/2024 11:48:21 hotspot,info,debug ->: vjenxckb (10.10.10.236): logged out: keepalive timeout
+Apr/13/2024 11:48:33 hotspot,info,debug ->: nahqq (10.10.10.167): trying to log in by mac-cookie
+Apr/13/2024 11:48:33 hotspot,account,info,debug ->: nahqq (10.10.10.167): logged in
+Apr/13/2024 11:48:45 hotspot,info,debug ->: pktaqzkd (10.10.10.41): trying to log in by mac-cookie
+Apr/13/2024 11:48:45 hotspot,account,info,debug ->: pktaqzkd (10.10.10.41): logged in
+Apr/13/2024 11:49:04 hotspot,info,debug ->: xbh5rapb (10.10.10.14): logged out: keepalive timeout
+Apr/13/2024 11:49:21 hotspot,info,debug ->: mhepbnps (10.10.10.153): logged out: keepalive timeout
+Apr/13/2024 11:49:21 hotspot,info,debug ->: mhepbnps (10.10.10.153): trying to log in by mac-cookie
+Apr/13/2024 11:49:21 hotspot,account,info,debug ->: mhepbnps (10.10.10.153): logged in
+Apr/13/2024 11:49:27 hotspot,info,debug ->: yezxmfgd (10.10.10.97): logged out: keepalive timeout
+Apr/13/2024 11:50:03 hotspot,info,debug ->: tqqhbwtm (10.10.10.31): logged out: keepalive timeout
+Apr/13/2024 11:50:19 hotspot,info,debug ->: svuzgfze (10.10.10.45): trying to log in by mac-cookie
+Apr/13/2024 11:50:19 hotspot,account,info,debug ->: svuzgfze (10.10.10.45): logged in
+Apr/13/2024 11:50:21 hotspot,info,debug ->: tqqhbwtm (10.10.10.31): trying to log in by mac-cookie
+Apr/13/2024 11:50:21 hotspot,account,info,debug ->: tqqhbwtm (10.10.10.31): logged in
+Apr/13/2024 11:50:49 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): trying to log in by mac-cookie
+Apr/13/2024 11:50:49 hotspot,account,info,debug ->: ue4tj7ys (10.10.10.63): logged in
+Apr/13/2024 11:51:05 hotspot,info,debug ->: pktaqzkd (10.10.10.41): logged out: keepalive timeout
+Apr/13/2024 20:32:24 hotspot,info,debug ->: 9etcd9sd (10.10.10.130): trying to log in by cookie
+Apr/13/2024 20:32:24 hotspot,account,info,debug ->: 9etcd9sd (10.10.10.130): logged in
+Apr/13/2024 20:32:47 hotspot,info,debug ->: ztgruckq (10.10.10.254): logged out: keepalive timeout
+Apr/13/2024 20:32:51 hotspot,info,debug ->: tzwgr (10.10.10.50): trying to log in by mac-cookie
+Apr/13/2024 20:32:51 hotspot,account,info,debug ->: tzwgr (10.10.10.50): logged in
+Apr/13/2024 20:32:56 hotspot,info,debug ->: fehqxrbf (10.10.10.4): logged out: keepalive timeout
+Apr/13/2024 20:33:09 hotspot,info,debug ->: tqqhbwtm (10.10.10.31): logged out: keepalive timeout
+Apr/13/2024 20:33:20 hotspot,info,debug ->: fehqxrbf (10.10.10.4): trying to log in by mac-cookie
+Apr/13/2024 20:33:20 hotspot,account,info,debug ->: fehqxrbf (10.10.10.4): logged in
+Apr/13/2024 20:33:24 hotspot,info,debug ->: gmcugvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:33:24 hotspot,info,debug ->: guygdcku (10.10.10.213): trying to log in by mac-cookie
+Apr/13/2024 20:33:24 hotspot,account,info,debug ->: guygdcku (10.10.10.213): logged in
+Apr/13/2024 20:33:26 hotspot,info,debug ->: gmcugvmf (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:33:35 hotspot,info,debug ->: XGdjn (10.10.10.240): trying to log in by mac-cookie
+Apr/13/2024 20:33:35 hotspot,account,info,debug ->: XGdjn (10.10.10.240): logged in
+Apr/13/2024 20:33:45 hotspot,info,debug ->: gmcugfmv (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:33:47 hotspot,info,debug ->: gmcugfmv (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:33:58 hotspot,info,debug ->: yrenwyzw (10.10.10.46): trying to log in by http-chap
+Apr/13/2024 20:33:58 hotspot,account,info,debug ->: yrenwyzw (10.10.10.46): logged in
+Apr/13/2024 20:34:05 hotspot,info,debug ->: gMcugvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:34:07 hotspot,info,debug ->: gMcugvmf (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:34:13 hotspot,info,debug ->: xxzrvemj (10.10.10.132): trying to log in by mac-cookie
+Apr/13/2024 20:34:13 hotspot,account,info,debug ->: xxzrvemj (10.10.10.132): logged in
+Apr/13/2024 20:34:24 hotspot,info,debug ->: jnzqhdtu (10.10.10.12): trying to log in by http-chap
+Apr/13/2024 20:34:24 hotspot,account,info,debug ->: jnzqhdtu (10.10.10.12): logged in
+Apr/13/2024 20:34:38 hotspot,info,debug ->: fscycsen (10.10.10.84): trying to log in by mac-cookie
+Apr/13/2024 20:34:38 hotspot,account,info,debug ->: fscycsen (10.10.10.84): logged in
+Apr/13/2024 20:34:42 hotspot,info,debug ->: gmCugVmf  (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:34:44 hotspot,info,debug ->: gmCugVmf  (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:34:49 hotspot,info,debug ->: Fnsksjh (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:34:51 hotspot,info,debug ->: Fnsksjh (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:34:53 hotspot,info,debug ->: ztgruckq (10.10.10.254): trying to log in by mac-cookie
+Apr/13/2024 20:34:53 hotspot,account,info,debug ->: ztgruckq (10.10.10.254): logged in
+Apr/13/2024 20:34:54 hotspot,info,debug ->: vjenxckb (10.10.10.236): trying to log in by mac-cookie
+Apr/13/2024 20:34:54 hotspot,account,info,debug ->: vjenxckb (10.10.10.236): logged in
+Apr/13/2024 20:34:59 hotspot,info,debug ->: gmcugvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:35:01 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 20:35:01 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 20:35:01 hotspot,info,debug ->: gmcugvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:35:01 hotspot,info,debug ->: gmcugvmf (10.10.10.24): login failed: already authorizing, retry later
+Apr/13/2024 20:35:01 hotspot,info,debug ->: gmcugvmf (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:35:03 hotspot,info,debug ->: tzwgr (10.10.10.50): logged out: keepalive timeout
+Apr/13/2024 20:35:22 hotspot,info,debug ->: gmcugv (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:35:24 hotspot,info,debug ->: gmcugv (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:35:40 hotspot,info,debug ->: GmcuGvmf (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 20:35:42 hotspot,info,debug ->: GmcuGvmf (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 20:37:21 hotspot,info,debug ->: zssxxwzy (10.10.10.56): trying to log in by mac-cookie
+Apr/13/2024 20:37:21 hotspot,account,info,debug ->: zssxxwzy (10.10.10.56): logged in
+Apr/13/2024 20:41:44 hotspot,info,debug ->: fscycsen (10.10.10.84): logged out: keepalive timeout
+Apr/13/2024 20:42:25 hotspot,info,debug ->: xbh5rapb (10.10.10.14): trying to log in by mac-cookie
+Apr/13/2024 20:42:25 hotspot,account,info,debug ->: xbh5rapb (10.10.10.14): logged in
+Apr/13/2024 20:43:59 hotspot,info,debug ->: tzwgr (10.10.10.50): trying to log in by mac-cookie
+Apr/13/2024 20:43:59 hotspot,account,info,debug ->: tzwgr (10.10.10.50): logged in
+Apr/13/2024 20:44:52 hotspot,info,debug ->: avgby (10.10.10.65): trying to log in by http-chap
+Apr/13/2024 20:44:54 hotspot,info,debug ->: avgby (10.10.10.65): login failed: invalid username or password
+Apr/13/2024 20:45:13 hotspot,info,debug ->: avgby (10.10.10.65): trying to log in by http-chap
+Apr/13/2024 20:45:15 hotspot,info,debug ->: avgby (10.10.10.65): login failed: invalid username or password
+Apr/13/2024 20:45:42 hotspot,info,debug ->: avgby (10.10.10.65): trying to log in by http-chap
+Apr/13/2024 20:45:44 hotspot,info,debug ->: avgby (10.10.10.65): login failed: invalid username or password
+Apr/13/2024 20:45:51 hotspot,info,debug ->: hhhxyetb (10.10.10.253): trying to log in by mac-cookie
+Apr/13/2024 20:45:51 hotspot,account,info,debug ->: hhhxyetb (10.10.10.253): logged in
+Apr/13/2024 20:46:12 hotspot,info,debug ->: guygdcku (10.10.10.73): trying to log in by cookie
+Apr/13/2024 20:46:12 hotspot,info,debug ->: guygdcku (10.10.10.73): login failed: no more sessions are allowed for user
+Apr/13/2024 20:46:40 hotspot,info,debug ->: yyvmyzkp (10.10.10.98): trying to log in by mac-cookie
+Apr/13/2024 20:46:40 hotspot,account,info,debug ->: yyvmyzkp (10.10.10.98): logged in
+Apr/13/2024 20:47:33 hotspot,info,debug ->: guygdcku (10.10.10.213): logged out: keepalive timeout
+Apr/13/2024 20:48:09 hotspot,info,debug ->: hhhxyetb (10.10.10.253): logged out: keepalive timeout
+Apr/13/2024 20:48:12 hotspot,info,debug ->: dakhjeyf (10.10.10.78): trying to log in by mac-cookie
+Apr/13/2024 20:48:12 hotspot,account,info,debug ->: dakhjeyf (10.10.10.78): logged in
+Apr/13/2024 20:49:54 hotspot,info,debug ->: cfnaxvjd (10.10.10.25): trying to log in by http-chap
+Apr/13/2024 20:49:54 hotspot,account,info,debug ->: cfnaxvjd (10.10.10.25): logged in
+Apr/13/2024 20:50:36 hotspot,info,debug ->: nceyafat (10.10.10.20): logged out: keepalive timeout
+Apr/13/2024 20:51:09 hotspot,info,debug ->: avgby (10.10.10.65): trying to log in by http-chap
+Apr/13/2024 20:51:11 hotspot,info,debug ->: avgby (10.10.10.65): login failed: invalid username or password
+Apr/13/2024 20:52:38 hotspot,info,debug ->: tzwgr (10.10.10.50): logged out: keepalive timeout
+Apr/13/2024 20:52:40 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): trying to log in by mac-cookie
+Apr/13/2024 20:52:40 hotspot,account,info,debug ->: ptxuxxgu (10.10.10.200): logged in
+Apr/13/2024 20:52:51 hotspot,info,debug ->: hhhxyetb (10.10.10.253): trying to log in by mac-cookie
+Apr/13/2024 20:52:51 hotspot,account,info,debug ->: hhhxyetb (10.10.10.253): logged in
+Apr/13/2024 20:54:10 hotspot,info,debug ->: bgqdx9f5 (10.10.10.91): trying to log in by mac-cookie
+Apr/13/2024 20:54:10 hotspot,account,info,debug ->: bgqdx9f5 (10.10.10.91): logged in
+Apr/13/2024 20:55:41 hotspot,info,debug ->: 5zyhm (10.10.10.47): trying to log in by http-chap
+Apr/13/2024 20:55:43 hotspot,info,debug ->: 5zyhm (10.10.10.47): login failed: invalid MAC address
+Apr/13/2024 20:55:47 hotspot,info,debug ->: XGdjn (10.10.10.240): logged out: keepalive timeout
+Apr/13/2024 20:55:57 hotspot,info,debug ->: u5c5e (10.10.10.47): trying to log in by http-chap
+Apr/13/2024 20:55:57 hotspot,account,info,debug ->: u5c5e (10.10.10.47): logged in
+Apr/13/2024 20:55:59 hotspot,info,debug ->: tzwgr (10.10.10.50): trying to log in by mac-cookie
+Apr/13/2024 20:55:59 hotspot,account,info,debug ->: tzwgr (10.10.10.50): logged in
+Apr/13/2024 20:56:29 hotspot,info,debug ->: rtreucus (10.10.10.17): logged out: keepalive timeout
+Apr/13/2024 20:57:19 hotspot,info,debug ->: dakhjeyf (10.10.10.78): logged out: traffic limit reached
+Apr/13/2024 20:57:37 hotspot,info,debug ->: XGdjn (10.10.10.240): trying to log in by mac-cookie
+Apr/13/2024 20:57:37 hotspot,account,info,debug ->: XGdjn (10.10.10.240): logged in
+Apr/13/2024 20:58:37 hotspot,info,debug ->: dakhjeyf (10.10.10.78): trying to log in by cookie
+Apr/13/2024 20:58:37 hotspot,info,debug ->: dakhjeyf (10.10.10.78): login failed: your traffic limit is reached
+Apr/13/2024 20:58:40 hotspot,info,debug ->: jahwqxnb (10.10.10.86): trying to log in by http-chap
+Apr/13/2024 20:58:40 hotspot,account,info,debug ->: jahwqxnb (10.10.10.86): logged in
+Apr/13/2024 20:59:01 hotspot,info,debug ->: yyvmyzkp (10.10.10.98): logged out: keepalive timeout
+Apr/13/2024 20:59:08 hotspot,info,debug ->: spgagmyt (10.10.10.78): trying to log in by http-chap
+Apr/13/2024 20:59:10 hotspot,info,debug ->: spgagmyt (10.10.10.78): login failed: your traffic limit is reached
+Apr/13/2024 20:59:29 hotspot,info,debug ->: dakhjyf (10.10.10.78): trying to log in by http-chap
+Apr/13/2024 20:59:31 hotspot,info,debug ->: dakhjyf (10.10.10.78): login failed: invalid username or password
+Apr/13/2024 21:01:04 hotspot,info,debug ->: hhhxyetb (10.10.10.253): logged out: keepalive timeout
+Apr/13/2024 21:01:23 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 21:01:23 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 21:01:47 hotspot,info,debug ->: hhhxyetb (10.10.10.253): trying to log in by mac-cookie
+Apr/13/2024 21:01:47 hotspot,account,info,debug ->: hhhxyetb (10.10.10.253): logged in
+Apr/13/2024 21:02:32 hotspot,info,debug ->: svuzgfze (10.10.10.45): logged out: traffic limit reached
+Apr/13/2024 21:04:19 hotspot,info,debug ->: tzwgr (10.10.10.50): logged out: keepalive timeout
+Apr/13/2024 21:05:32 hotspot,info,debug ->: msvgersq (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:05:34 hotspot,info,debug ->: msvgersq (10.10.10.24): login failed: invalid MAC address
+Apr/13/2024 21:05:38 hotspot,info,debug ->: hhhxyetb (10.10.10.253): logged out: keepalive timeout
+Apr/13/2024 21:05:57 hotspot,info,debug ->: ndhkgead (10.10.10.16): trying to log in by mac-cookie
+Apr/13/2024 21:05:57 hotspot,account,info,debug ->: ndhkgead (10.10.10.16): logged in
+Apr/13/2024 21:07:54 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): trying to log in by mac-cookie
+Apr/13/2024 21:07:54 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.88): logged in
+Apr/13/2024 21:09:43 hotspot,info,debug ->: radgw (10.10.10.87): trying to log in by mac-cookie
+Apr/13/2024 21:09:43 hotspot,account,info,debug ->: radgw (10.10.10.87): logged in
+Apr/13/2024 21:10:47 hotspot,info,debug ->: yrenwyzw (10.10.10.46): logged out: keepalive timeout
+Apr/13/2024 21:10:58 hotspot,info,debug ->: 2sdu4 (10.10.10.89): trying to log in by mac-cookie
+Apr/13/2024 21:10:58 hotspot,account,info,debug ->: 2sdu4 (10.10.10.89): logged in
+Apr/13/2024 21:11:04 hotspot,info,debug ->: ptxuxxgu (10.10.10.200): logged out: keepalive timeout
+Apr/13/2024 21:11:43 hotspot,info,debug ->: radgw (10.10.10.87): logged out: keepalive timeout
+Apr/13/2024 21:13:48 hotspot,info,debug ->: yrenwyzw (10.10.10.46): trying to log in by mac-cookie
+Apr/13/2024 21:13:48 hotspot,account,info,debug ->: yrenwyzw (10.10.10.46): logged in
+Apr/13/2024 21:16:29 hotspot,info,debug ->: rvfyv (10.10.10.10): trying to log in by mac-cookie
+Apr/13/2024 21:16:29 hotspot,account,info,debug ->: rvfyv (10.10.10.10): logged in
+Apr/13/2024 21:16:30 hotspot,info,debug ->: rtreucus (10.10.10.17): logged out: keepalive timeout
+Apr/13/2024 21:19:15 hotspot,info,debug ->: vjenxckb (10.10.10.236): logged out: keepalive timeout
+Apr/13/2024 21:19:58 hotspot,info,debug ->: rvfyv (10.10.10.10): logged out: keepalive timeout
+Apr/13/2024 21:21:39 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 21:21:39 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 21:22:04 hotspot,info,debug ->: 2sdu4 (10.10.10.89): logged out: traffic limit reached
+Apr/13/2024 21:22:46 hotspot,info,debug ->: rvfyv (10.10.10.10): trying to log in by mac-cookie
+Apr/13/2024 21:22:46 hotspot,account,info,debug ->: rvfyv (10.10.10.10): logged in
+Apr/13/2024 21:22:59 hotspot,info,debug ->: pnrankrk (10.10.10.65): trying to log in by http-chap
+Apr/13/2024 21:22:59 hotspot,account,info,debug ->: pnrankrk (10.10.10.65): logged in
+Apr/13/2024 21:23:42 hotspot,info,debug ->: vjenxckb (10.10.10.236): trying to log in by mac-cookie
+Apr/13/2024 21:23:42 hotspot,account,info,debug ->: vjenxckb (10.10.10.236): logged in
+Apr/13/2024 21:23:59 hotspot,info,debug ->: yrutbhrq (10.10.10.250): trying to log in by http-chap
+Apr/13/2024 21:23:59 hotspot,account,info,debug ->: yrutbhrq (10.10.10.250): logged in
+Apr/13/2024 21:24:54 hotspot,info,debug ->: yqxfgevf (10.10.10.142): logged out: keepalive timeout
+Apr/13/2024 21:25:22 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 21:26:16 hotspot,info,debug ->: yqxfgevf (10.10.10.142): trying to log in by mac-cookie
+Apr/13/2024 21:26:16 hotspot,account,info,debug ->: yqxfgevf (10.10.10.142): logged in
+Apr/13/2024 21:27:01 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 21:27:01 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 21:27:55 hotspot,info,debug ->: msvgersq (10.10.10.39): trying to log in by http-chap
+Apr/13/2024 21:27:57 hotspot,info,debug ->: msvgersq (10.10.10.39): login failed: invalid MAC address
+Apr/13/2024 21:28:10 hotspot,info,debug ->: bsvxgujg (10.10.10.154): logged out: keepalive timeout
+Apr/13/2024 21:28:23 hotspot,info,debug ->: gmcugvmf (10.10.10.39): trying to log in by http-chap
+Apr/13/2024 21:28:25 hotspot,info,debug ->: gmcugvmf (10.10.10.39): login failed: invalid username or password
+Apr/13/2024 21:28:50 hotspot,info,debug ->: gmcugvmf (10.10.10.39): trying to log in by http-chap
+Apr/13/2024 21:28:52 hotspot,info,debug ->: gmcugvmf (10.10.10.39): login failed: invalid username or password
+Apr/13/2024 21:28:57 hotspot,info,debug ->: dqyscymz (10.10.10.219): logged out: keepalive timeout
+Apr/13/2024 21:29:07 hotspot,info,debug ->: tbcxa (10.10.10.245): logged out: keepalive timeout
+Apr/13/2024 21:29:44 hotspot,info,debug ->: rtreucus (10.10.10.17): logged out: keepalive timeout
+Apr/13/2024 21:29:51 hotspot,info,debug ->: dqyscymz (10.10.10.219): trying to log in by mac-cookie
+Apr/13/2024 21:29:51 hotspot,account,info,debug ->: dqyscymz (10.10.10.219): logged in
+Apr/13/2024 21:30:17 hotspot,info,debug ->: yqxfgevf (10.10.10.142): logged out: keepalive timeout
+Apr/13/2024 21:30:40 hotspot,info,debug ->: jakma (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:30:41 hotspot,info,debug ->: jakma (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:30:41 hotspot,info,debug ->: jakma (10.10.10.24): login failed: already authorizing, retry later
+Apr/13/2024 21:30:42 hotspot,info,debug ->: jakma (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 21:31:03 hotspot,info,debug ->: jfjhg (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:31:04 hotspot,info,debug ->: ue4tj7ys (10.10.10.63): logged out: keepalive timeout
+Apr/13/2024 21:31:05 hotspot,info,debug ->: jfjhg (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:31:05 hotspot,info,debug ->: jfjhg (10.10.10.24): login failed: already authorizing, retry later
+Apr/13/2024 21:31:05 hotspot,info,debug ->: jfjhg (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 21:34:05 hotspot,info,debug ->: yqxfgevf (10.10.10.142): trying to log in by mac-cookie
+Apr/13/2024 21:34:05 hotspot,account,info,debug ->: yqxfgevf (10.10.10.142): logged in
+Apr/13/2024 21:34:17 hotspot,info,debug ->: edwgkshx (10.10.10.104): trying to log in by http-chap
+Apr/13/2024 21:34:17 hotspot,account,info,debug ->: edwgkshx (10.10.10.104): logged in
+Apr/13/2024 21:34:19 hotspot,info,debug ->: 53p5u (10.10.10.101): trying to log in by http-chap
+Apr/13/2024 21:34:19 hotspot,account,info,debug ->: 53p5u (10.10.10.101): logged in
+Apr/13/2024 21:36:21 hotspot,info,debug ->: yqxfgevf (10.10.10.142): logged out: keepalive timeout
+Apr/13/2024 21:36:27 hotspot,info,debug ->: dnrcadr (10.10.10.252): trying to log in by http-chap
+Apr/13/2024 21:36:29 hotspot,info,debug ->: dnrcadr (10.10.10.252): login failed: invalid username or password
+Apr/13/2024 21:36:58 hotspot,info,debug ->: dnrbcadr (10.10.10.252): trying to log in by http-chap
+Apr/13/2024 21:36:58 hotspot,account,info,debug ->: dnrbcadr (10.10.10.252): logged in
+Apr/13/2024 21:37:24 hotspot,info,debug ->: dqyscymz (10.10.10.219): logged out: keepalive timeout
+Apr/13/2024 21:37:51 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 21:38:01 hotspot,info,debug ->: xdnt9 (10.10.10.89): trying to log in by http-chap
+Apr/13/2024 21:38:03 hotspot,info,debug ->: xdnt9 (10.10.10.89): login failed: invalid username or password
+Apr/13/2024 21:38:08 hotspot,info,debug ->: XGdjn (10.10.10.240): logged out: keepalive timeout
+Apr/13/2024 21:38:09 hotspot,info,debug ->: XGdjn (10.10.10.240): trying to log in by mac-cookie
+Apr/13/2024 21:38:09 hotspot,account,info,debug ->: XGdjn (10.10.10.240): logged in
+Apr/13/2024 21:38:16 hotspot,info,debug ->: dxrt9 (10.10.10.89): trying to log in by http-chap
+Apr/13/2024 21:38:18 hotspot,info,debug ->: dxrt9 (10.10.10.89): login failed: invalid username or password
+Apr/13/2024 21:38:34 hotspot,info,debug ->: xdrt9 (10.10.10.89): trying to log in by http-chap
+Apr/13/2024 21:38:34 hotspot,account,info,debug ->: xdrt9 (10.10.10.89): logged in
+Apr/13/2024 21:40:32 hotspot,info,debug ->: dqyscymz (10.10.10.219): trying to log in by mac-cookie
+Apr/13/2024 21:40:32 hotspot,account,info,debug ->: dqyscymz (10.10.10.219): logged in
+Apr/13/2024 21:42:34 hotspot,info,debug ->: dqyscymz (10.10.10.219): logged out: keepalive timeout
+Apr/13/2024 21:43:49 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: keepalive timeout
+Apr/13/2024 21:44:50 hotspot,info,debug ->: gtnmv (10.10.10.13): logged out: keepalive timeout
+Apr/13/2024 21:44:54 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 21:44:54 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 21:50:44 hotspot,info,debug ->: bvk4h66f (10.10.10.30): trying to log in by mac-cookie
+Apr/13/2024 21:50:44 hotspot,account,info,debug ->: bvk4h66f (10.10.10.30): logged in
+Apr/13/2024 21:52:01 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: keepalive timeout
+Apr/13/2024 21:53:14 hotspot,info,debug ->: bvk4h66f (10.10.10.30): logged out: keepalive timeout
+Apr/13/2024 21:53:15 hotspot,info,debug ->: dsabmjrm (10.10.10.76): logged out: keepalive timeout
+Apr/13/2024 21:53:46 hotspot,info,debug ->: dsabmjrm (10.10.10.76): trying to log in by mac-cookie
+Apr/13/2024 21:53:46 hotspot,account,info,debug ->: dsabmjrm (10.10.10.76): logged in
+Apr/13/2024 21:54:06 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 21:54:06 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 21:56:04 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): trying to log in by mac-cookie
+Apr/13/2024 21:56:04 hotspot,account,info,debug ->: xrxwpuhu (10.10.10.195): logged in
+Apr/13/2024 21:57:02 hotspot,info,debug ->: vjenxckb (10.10.10.236): logged out: keepalive timeout
+Apr/13/2024 21:58:14 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: keepalive timeout
+Apr/13/2024 21:58:31 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 21:58:33 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:01:50 hotspot,info,debug ->: aefrbuss (10.10.10.110): trying to log in by http-chap
+Apr/13/2024 22:01:50 hotspot,account,info,debug ->: aefrbuss (10.10.10.110): logged in
+Apr/13/2024 22:02:02 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): logged out: keepalive timeout
+Apr/13/2024 22:02:05 hotspot,info,debug ->: xrxwpuhu (10.10.10.195): logged out: keepalive timeout
+Apr/13/2024 22:02:07 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:02:09 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:03:19 hotspot,info,debug ->: bvk4h66f (10.10.10.30): trying to log in by mac-cookie
+Apr/13/2024 22:03:19 hotspot,account,info,debug ->: bvk4h66f (10.10.10.30): logged in
+Apr/13/2024 22:03:53 hotspot,info,debug ->: jahwqxnb (10.10.10.86): logged out: keepalive timeout
+Apr/13/2024 22:04:32 hotspot,info,debug ->: jahwqxnb (10.10.10.86): trying to log in by mac-cookie
+Apr/13/2024 22:04:32 hotspot,account,info,debug ->: jahwqxnb (10.10.10.86): logged in
+Apr/13/2024 22:05:20 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): trying to log in by mac-cookie
+Apr/13/2024 22:05:20 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.88): logged in
+Apr/13/2024 22:06:12 hotspot,info,debug ->: XGdjn (10.10.10.240): logged out: keepalive timeout
+Apr/13/2024 22:07:34 hotspot,info,debug ->: pnrankrk (10.10.10.65): logged out: keepalive timeout
+Apr/13/2024 22:09:03 hotspot,info,debug ->: zssxxwzy (10.10.10.56): logged out: keepalive timeout
+Apr/13/2024 22:09:11 hotspot,info,debug ->: awaudztc (10.10.10.39): trying to log in by http-chap
+Apr/13/2024 22:09:13 hotspot,info,debug ->: awaudztc (10.10.10.39): login failed: invalid username or password
+Apr/13/2024 22:10:41 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 22:10:41 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 22:11:28 hotspot,info,debug ->: jttskwad (10.10.10.11): logged out: keepalive timeout
+Apr/13/2024 22:13:17 hotspot,info,debug ->: wtywgxsy (10.10.10.173): logged out: keepalive timeout
+Apr/13/2024 22:14:48 hotspot,info,debug ->: wtywgxsy (10.10.10.173): trying to log in by mac-cookie
+Apr/13/2024 22:14:48 hotspot,account,info,debug ->: wtywgxsy (10.10.10.173): logged in
+Apr/13/2024 22:15:04 hotspot,info,debug ->: pnrankrk (10.10.10.65): trying to log in by mac-cookie
+Apr/13/2024 22:15:04 hotspot,account,info,debug ->: pnrankrk (10.10.10.65): logged in
+Apr/13/2024 22:15:37 hotspot,info,debug ->: yrswkata (10.10.10.34): trying to log in by mac-cookie
+Apr/13/2024 22:15:37 hotspot,account,info,debug ->: yrswkata (10.10.10.34): logged in
+Apr/13/2024 22:15:42 hotspot,info,debug ->: fehqxrbf (10.10.10.4): logged out: keepalive timeout
+Apr/13/2024 22:16:19 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 22:16:19 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 22:17:36 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: keepalive timeout
+Apr/13/2024 22:17:40 hotspot,info,debug ->: dnrbcadr (10.10.10.252): logged out: keepalive timeout
+Apr/13/2024 22:18:55 hotspot,info,debug ->: pnrankrk (10.10.10.65): logged out: keepalive timeout
+Apr/13/2024 22:19:16 hotspot,info,debug ->: dqyscymz (10.10.10.219): trying to log in by mac-cookie
+Apr/13/2024 22:19:16 hotspot,account,info,debug ->: dqyscymz (10.10.10.219): logged in
+Apr/13/2024 22:20:35 hotspot,info,debug ->: rtreucus (10.10.10.17): logged out: keepalive timeout
+Apr/13/2024 22:23:20 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): logged out: keepalive timeout
+Apr/13/2024 22:23:26 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): trying to log in by mac-cookie
+Apr/13/2024 22:23:26 hotspot,account,info,debug ->: kbxnqgfn (10.10.10.83): logged in
+Apr/13/2024 22:26:38 hotspot,info,debug ->: dsabmjrm (10.10.10.76): logged out: keepalive timeout
+Apr/13/2024 22:27:00 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 22:27:00 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in
+Apr/13/2024 22:27:20 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:27:22 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:27:36 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:27:38 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:27:42 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): trying to log in by mac-cookie
+Apr/13/2024 22:27:42 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.88): logged in
+Apr/13/2024 22:27:48 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:27:50 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:27:59 hotspot,info,debug ->: XGdjn (10.10.10.240): trying to log in by mac-cookie
+Apr/13/2024 22:27:59 hotspot,account,info,debug ->: XGdjn (10.10.10.240): logged in
+Apr/13/2024 22:29:25 hotspot,info,debug ->: yrutbhrq (10.10.10.250): logged out: keepalive timeout
+Apr/13/2024 22:29:30 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:29:32 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:29:34 hotspot,info,debug ->: fehqxrbf (10.10.10.4): trying to log in by mac-cookie
+Apr/13/2024 22:29:34 hotspot,account,info,debug ->: fehqxrbf (10.10.10.4): logged in
+Apr/13/2024 22:29:48 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 22:29:50 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 22:31:22 hotspot,info,debug ->: qqcyswcg (10.10.10.75): logged out: keepalive timeout
+Apr/13/2024 22:32:33 hotspot,info,debug ->: fxxya (10.10.10.58): logged out: keepalive timeout
+Apr/13/2024 22:32:47 hotspot,info,debug ->: fxxya (10.10.10.58): trying to log in by mac-cookie
+Apr/13/2024 22:32:47 hotspot,account,info,debug ->: fxxya (10.10.10.58): logged in
+Apr/13/2024 22:36:13 hotspot,info,debug ->: rtreucus (10.10.10.17): logged out: keepalive timeout
+Apr/13/2024 22:39:14 hotspot,info,debug ->: pmtyvcuc (10.10.10.117): trying to log in by http-chap
+Apr/13/2024 22:39:16 hotspot,info,debug ->: pmtyvcuc (10.10.10.117): login failed: invalid username or password
+Apr/13/2024 22:39:40 hotspot,info,debug ->: 7ezw2dsd (10.10.10.33): logged out: keepalive timeout
+Apr/13/2024 22:39:46 hotspot,info,debug ->: fxxya (10.10.10.58): logged out: keepalive timeout
+Apr/13/2024 22:39:53 hotspot,info,debug ->: aefrbuss (10.10.10.110): logged out: keepalive timeout
+Apr/13/2024 22:39:56 hotspot,info,debug ->: pmtyvcuv (10.10.10.117): trying to log in by http-chap
+Apr/13/2024 22:39:56 hotspot,account,info,debug ->: pmtyvcuv (10.10.10.117): logged in
+Apr/13/2024 22:40:11 hotspot,info,debug ->: fxxya (10.10.10.58): trying to log in by mac-cookie
+Apr/13/2024 22:40:11 hotspot,account,info,debug ->: fxxya (10.10.10.58): logged in
+Apr/13/2024 22:42:14 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): logged out: keepalive timeout
+Apr/13/2024 22:42:44 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): trying to log in by mac-cookie
+Apr/13/2024 22:42:44 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.88): logged in
+Apr/13/2024 22:45:14 hotspot,info,debug ->: rvfyv (10.10.10.10): logged out: keepalive timeout
+Apr/13/2024 22:45:51 hotspot,info,debug ->: jnzcraeh (10.10.10.183): trying to log in by http-chap
+Apr/13/2024 22:45:51 hotspot,account,info,debug ->: jnzcraeh (10.10.10.183): logged in
+Apr/13/2024 22:46:41 hotspot,info,debug ->: nnxesskz (10.10.10.8): logged out: traffic limit reached
+Apr/13/2024 22:48:05 hotspot,info,debug ->: fxxya (10.10.10.58): logged out: keepalive timeout
+Apr/13/2024 22:48:09 hotspot,info,debug ->: nnxesskz (10.10.10.8): trying to log in by cookie
+Apr/13/2024 22:48:09 hotspot,info,debug ->: nnxesskz (10.10.10.8): login failed: your traffic limit is reached
+Apr/13/2024 22:50:36 hotspot,info,debug ->: jnzqhdtu (10.10.10.12): logged out: keepalive timeout
+Apr/13/2024 22:50:41 hotspot,info,debug ->: yrswkata (10.10.10.34): logged out: keepalive timeout
+Apr/13/2024 22:53:06 hotspot,info,debug ->: yyvmyzkp (10.10.10.120): trying to log in by mac-cookie
+Apr/13/2024 22:53:06 hotspot,account,info,debug ->: yyvmyzkp (10.10.10.120): logged in
+Apr/13/2024 22:53:10 hotspot,info,debug ->: kykzy (10.10.10.19): logged out: keepalive timeout
+Apr/13/2024 22:56:17 hotspot,info,debug ->: kykzy (10.10.10.19): trying to log in by mac-cookie
+Apr/13/2024 22:56:17 hotspot,account,info,debug ->: kykzy (10.10.10.19): logged in
+Apr/13/2024 22:56:35 hotspot,info,debug ->: uzcxcgdz (10.10.10.118): trying to log in by mac-cookie
+Apr/13/2024 22:56:35 hotspot,account,info,debug ->: uzcxcgdz (10.10.10.118): logged in
+Apr/13/2024 22:58:18 hotspot,info,debug ->: kykzy (10.10.10.19): logged out: keepalive timeout
+Apr/13/2024 22:59:40 hotspot,info,debug ->: bvk4h66f (10.10.10.30): logged out: keepalive timeout
+Apr/13/2024 22:59:48 hotspot,info,debug ->: bvk4h66f (10.10.10.30): trying to log in by mac-cookie
+Apr/13/2024 22:59:48 hotspot,account,info,debug ->: bvk4h66f (10.10.10.30): logged in
+Apr/13/2024 23:00:46 hotspot,info,debug ->: dnrbcadr (10.10.10.252): trying to log in by mac-cookie
+Apr/13/2024 23:00:46 hotspot,account,info,debug ->: dnrbcadr (10.10.10.252): logged in
+Apr/13/2024 23:03:36 hotspot,info,debug ->: awaudztc (10.10.10.24): trying to log in by http-chap
+Apr/13/2024 23:03:38 hotspot,info,debug ->: awaudztc (10.10.10.24): login failed: invalid username or password
+Apr/13/2024 23:04:45 hotspot,info,debug ->: kbxnqgfn (10.10.10.83): logged out: traffic limit reached
+Apr/13/2024 23:05:52 hotspot,info,debug ->: jnzcraeh (10.10.10.183): logged out: keepalive timeout
+Apr/13/2024 23:09:50 hotspot,info,debug ->: jnzcraeh (10.10.10.183): trying to log in by mac-cookie
+Apr/13/2024 23:09:50 hotspot,account,info,debug ->: jnzcraeh (10.10.10.183): logged in
+Apr/13/2024 23:12:06 hotspot,info,debug ->: edhpfhev (10.10.10.131): trying to log in by mac-cookie
+Apr/13/2024 23:12:06 hotspot,account,info,debug ->: edhpfhev (10.10.10.131): logged in
+Apr/13/2024 23:13:28 hotspot,info,debug ->: bvk4h66f (10.10.10.30): logged out: keepalive timeout
+Apr/13/2024 23:14:14 hotspot,info,debug ->: yqw3n (10.10.10.133): trying to log in by http-chap
+Apr/13/2024 23:14:14 hotspot,account,info,debug ->: yqw3n (10.10.10.133): logged in
+Apr/13/2024 23:14:46 hotspot,info,debug ->: yyvmyzkp (10.10.10.120): logged out: keepalive timeout
+Apr/13/2024 23:14:59 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): logged out: keepalive timeout
+Apr/13/2024 23:15:27 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): trying to log in by mac-cookie
+Apr/13/2024 23:15:27 hotspot,account,info,debug ->: xmsjqqcc (10.10.10.88): logged in
+Apr/13/2024 23:15:47 hotspot,info,debug ->: 3cvse (10.10.10.81): logged out: keepalive timeout
+Apr/13/2024 23:18:47 hotspot,info,debug ->: xmsjqqcc (10.10.10.88): logged out: keepalive timeout
+Apr/13/2024 23:19:27 hotspot,info,debug ->: rtreucus (10.10.10.17): trying to log in by mac-cookie
+Apr/13/2024 23:19:27 hotspot,account,info,debug ->: rtreucus (10.10.10.17): logged in

@@ -1,0 +1,114 @@
+<html lang="en"><!--<![endif]--><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PT. Fasnet Sky Fiber | Internet Untuk Semua</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="bootstrap.min.css">
+<link rel="stylesheet" href="style.mks.css">
+<link rel="stylesheet" href="icons.css" type="text/css" />
+ <link rel="stylesheet" href="style.css" type="text/css" />
+</head>
+<div id="footer">
+</div>
+</div>
+<body>
+$(if chap-id)
+	<form name="sendin" action="$(link-login-only)" method="post">
+		<input type="hidden" name="username" />
+		<input type="hidden" name="password" />
+		<input type="hidden" name="dst" value="$(link-orig)" />
+			</form>
+	<script type="text/javascript" src="/md5.js"></script>
+	<script type="text/javascript">
+	<!--
+	    function doLogin() {
+		document.sendin.username.value = document.login.username.value;
+		document.sendin.password.value = hexMD5('$(chap-id)' + document.login.password.value + '$(chap-challenge)');
+		document.sendin.submit();
+		return false;
+	    }
+	//-->
+	</script>
+<style media="print">body {display:none}</style><link rel="stylesheet" type="text/css" href="mt_null.css">
+</head>
+<body>
+</div>
+<div id="header" class="row text-center">
+<div id="main" class="row">
+ $(endif)
+ <div class="form-signin ">
+ <center><img class="img-responsive da animated "width="230" height="40"  src="logo.png" alt="Hotspot Services"></center>	
+
+<div class="main-menu">
+	$(if login-by)
+		<a style="color:#0066ff"class="login" href="login.html">Login</a>
+	$(else)
+		<a style="color:#0066ff"class="status" href="status.html">Status</a>
+	$(endif)
+		
+	</div> 
+	  <p style="margin-top:10px;margin-bottom:5px"></p>
+ <p style=" text-align:center;margin-top:10px;margin-bottom:5px">
+	<form name="login" action="$(link-login-only)" method="post"
+	$(if chap-id) onSubmit="return doLogin()" $(endif)>
+	<input type="hidden" name="dst" value="$(link-orig)" />
+		<div class="form-group">
+	<b><input style="text-align:center"oninput="this.value" type="text" class="form-control" name="username" onblur="password.value=username.value" placeholder="Ketik Kode Voucher Disini" required="required" autocomplete="off"></b>
+	<input type="hidden" class="form-control" placeholder="Password" name="password">
+ <label>
+<p class="text-danger text-center">
+</p> 
+ </label>
+ <p style=" text-align:center;margin-top:-5px;margin-bottom:5px">
+<input name="submit" type="submit" value="Connect" class="btn btn-lg btn-danger btn-block">
+ </form></div>
+ $(if error)
+<div class="alert alert-dismissible alert-info">
+<small>$(error)</small>
+</div>
+  $(endif)
+  $(if trial == 'yes') 
+    <div class="box">
+	<a style="text-decoration: underline; color:#0066ff;" href="$(link-login-only)?dst=$(link-orig-esc)&amp;username=T-$(mac-esc)"></a>
+  $(endif)	
+<style type="text/css"> 
+. { -webkit-animation:  .; 
+-moz-animation:  .; 
+-ms-animation:  .; 
+-o-animation:  .; 
+animation:  .; } @-webkit-keyframes blink { 0% { opacity: 1; } 50% { opacity: 1; } 50.01% { opacity: 0; } 100% { opacity: 0; } } @-moz-keyframes blink { 0% { opacity: 1; } 50% { opacity: 1; } 50.01% { opacity: 0; } 100% { opacity: 0; } } @-ms-keyframes blink { 0% { opacity: 1; } 50% { opacity: 1; } 50.01% { opacity: 0; } 100% { opacity: 0; } } @-o-keyframes blink { 0% { opacity: 1; } 50% { opacity: 1; } 50.01% { opacity: 0; } 100% { opacity: 0; } } @keyframes blink { 0% { opacity: 1; } 50% { opacity: 1; } 50.01% { opacity: 0; } 100% { opacity: 0; } } 
+</style>
+<p style="font-size:12px;text-align:center;margin-top:10px;margin-bottom:5px;color:#0066ff" class="blink">
+
+<p style=" margin-top:10px">
+<marquee ><class="running-text text-info" direction="left" scrollamount="3" onmouseover="this.stop()" onmouseout="this.start() ">
+				<font color="#0066ff"> <a href="about.html"><font color="#800000"><b></b></a>
+					
+<p style=" text-align:center;margin-top:-15px">					
+</div>
+</div>
+<p style=" text-align:center;margin-top:-20px">
+<div class="copy text-center"><font color="#444"> <a href="#"><font color="#000000"></font></a></font></div> 
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+  document.login.username.focus();
+</script>
+<script>
+		$(document).on("click","#close", function(){
+		   $('#paket').modal('hide');
+		   $('#berlangganan').modal('hide');
+		});				
+	</script>	
+</body>
+<script> 					
+    };
+</script>
+</html>

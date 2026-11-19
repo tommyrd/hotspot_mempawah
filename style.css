@@ -1,0 +1,94 @@
+
+
+/* HEADER */
+.site-header {
+}
+.site-header h1 {
+	color: #767676;
+	margin: 0;
+	font-size: 28px;
+	text-align: center;
+	text-shadow: #dcdcdc 0px 1px 0px;
+}
+.site-header h2 {
+	color: #767676;
+	margin: 0;
+	font-size: 14px;
+	font-weight: 400;
+	font-style: italic;
+	text-align: center;
+	text-shadow: #dcdcdc 0px 1px 0px;
+}
+.main-menu {
+	margin-top: 15px;
+	text-align: center;
+	color: #fff;
+}
+
+.main-menu a {
+	margin-right: 10px;
+	color: #070808;
+}
+.main-menu a :active {
+	background-image:none;
+	outline:0;
+	color: #070808;
+}
+.main-menu a:hover {
+	text-decoration: none;
+	color: #286090;
+}
+
+
+.login:before,
+.package:before,
+.coverage:before
+.android:before
+.laptop:before,
+.contact:before,
+.status:before {
+	-webkit-font-smoothing: antialiased;
+	display: inline-block;
+	text-decoration: inherit;
+	vertical-align: text-bottom;
+}
+.login:before {
+	content: "\f427";
+	margin: 0 1px 0 0;
+	font: normal 16px/1 Genericons;
+}
+.voucher:before {
+	content: "\f413";
+	font: normal 16px/1 Genericons;
+}
+.service:before {
+	content: "\f308";
+	font: normal 16px/1 Genericons;
+}
+.spaceiklan:before {
+	content: "\f109";
+	font: normal 16px/1 Genericons;
+}
+.policy:before {
+	content: "\f424";
+	margin: -2px 1px 2px 0;
+	font: normal 16px/1 Genericons;
+}
+.contact:before {
+	content: "\f454";
+	margin: -2px 1px 2px 0;
+	font: normal 16px/1 Genericons;
+}
+.status:before {
+	content: "\f304";
+	margin: 0 1px 0 0;
+	font: normal 16px/1 Genericons;
+}
+
+
+.main{
+	width:90%;
+	margin-top:10%}}@media screen and (min-width:600px){
+.main{
+	margin-top:2%}}
+
